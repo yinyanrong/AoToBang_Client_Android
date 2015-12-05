@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\SwipeCards\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c75d376900671303f45e8db1a254c8bfaed18041">
+        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-879007bfb0ca55f5dcd415a59826f457ba7d0ee3.jar" />
+    </item>
+    <item
         jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\Crop\unspecified\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="dd87caee27e7db3bed01ab8cbab52e3164edc0c8">
+        sha1="7ec53752c9d739e720638080e1c96f7fa521fbb5">
         <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-8330f7422c6e68c2067aacd16ca86e42eeccf5d2.jar" />
+    </item>
+    <item
+        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-d1aa6e824efe60ef7d9ad8a40a0eca7125c577a1.jar" />
     </item>
     <item
         jar="D:\Users\Administrator.WIN7U-20151130Q\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
@@ -19,7 +33,7 @@
         jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\PullToRefreshLibrary\unspecified\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c8b9122af71e6cf5cec255d7f11c683a56f8c943">
+        sha1="6a5d2300d2cfd114128b00572c0063589d587dc6">
         <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-a6579b6424674173e13a1e786bd942a48b554230.jar" />
     </item>
     <item
@@ -33,7 +47,7 @@
         jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\slidinglibrary\unspecified\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="2fb1bf33fbd23922e122cdf440b19519fa2fe32d">
+        sha1="36c8890036b1dc5272467ec8cef5171ec7131ef9">
         <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-3598fe9c53f88ea5e821f056c9e14175e611b614.jar" />
     </item>
     <item
@@ -51,6 +65,20 @@
         <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\mina-core-2.0.9-f55a98745ebf9e12326587ebd2de73574a366748.jar" />
     </item>
     <item
+        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\libs\alibaba.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c3b5a4f2e244dd8a3d55bfb430fcea53a4ad6bfa">
+        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\alibaba-e80e375562134ede8a038c4b94b51cbc6cdfe206.jar" />
+    </item>
+    <item
+        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\PagerSlidingTabStrip\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3520127e00c1a9fb5b8bc6cd769534738cce9627">
+        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-971a272350d61fd3018980f1aa3a9e27d5cbb707.jar" />
+    </item>
+    <item
         jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -61,7 +89,7 @@
         jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\ShadowLayout\unspecified\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="ed57abe4d3e18c421e530f144d8ddf3c2269fa22">
+        sha1="2969c2559d4d676af9a562cf94f771ec9d241811">
         <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-db54e6e24c68918efb087eb5cd8d018852ccfd34.jar" />
     </item>
     <item
@@ -79,6 +107,13 @@
         <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\oss-android-sdk-1.0.0-db06a7b6c719423cd2b1bcc00373c1b3f0b899fc.jar" />
     </item>
     <item
+        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\libs\liblinphone.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00d1d03311cd341bb39031582b95b9156237dfc9">
+        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\liblinphone-011a0ae93f36a5cbd2d8368de1a20a27fa0bf1a3.jar" />
+    </item>
+    <item
         jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -91,41 +126,6 @@
         revision="23.0.1"
         sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
         <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources-e7cdcac9f6847134d385bf2e47d9867686a04605.jar" />
-    </item>
-    <item
-        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\SwipeCards\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1b3b3a00cb964a95283376d13a50ca7172a8edae">
-        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-879007bfb0ca55f5dcd415a59826f457ba7d0ee3.jar" />
-    </item>
-    <item
-        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-d1aa6e824efe60ef7d9ad8a40a0eca7125c577a1.jar" />
-    </item>
-    <item
-        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\libs\alibaba.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c3b5a4f2e244dd8a3d55bfb430fcea53a4ad6bfa">
-        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\alibaba-e80e375562134ede8a038c4b94b51cbc6cdfe206.jar" />
-    </item>
-    <item
-        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\PagerSlidingTabStrip\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8ebc099eb47770a53e210e0fcf96eaf0d2d359b9">
-        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-971a272350d61fd3018980f1aa3a9e27d5cbb707.jar" />
-    </item>
-    <item
-        jar="E:\android_code\AoToBang_Client_Android\AotoBangNew\libs\liblinphone.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="00d1d03311cd341bb39031582b95b9156237dfc9">
-        <dex dex="E:\android_code\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\liblinphone-011a0ae93f36a5cbd2d8368de1a20a27fa0bf1a3.jar" />
     </item>
 
 </items>
