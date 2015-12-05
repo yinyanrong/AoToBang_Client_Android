@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/back" android:state_pressed="false"/>
     <item android:drawable="@drawable/back"/>
 
-</selector><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/drawable/selector_btn_back.xml -->
+</selector><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/drawable/selector_btn_back.xml -->

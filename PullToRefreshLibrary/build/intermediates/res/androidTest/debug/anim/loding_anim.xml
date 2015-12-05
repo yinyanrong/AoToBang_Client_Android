@@ -28,4 +28,4 @@
     <item android:drawable="@drawable/loading_3" android:duration="100"></item>  
     <item android:drawable="@drawable/loading_2" android:duration="100"></item>  
     <item android:drawable="@drawable/loading_1" android:duration="100"></item>  
-</animation-list>  <!-- From: file:/E:/android/studioWorks/AotoBangAS/PullToRefreshLibrary/src/main/res/anim/loding_anim.xml --><!-- From: file:/E:/android/studioWorks/AotoBangAS/PullToRefreshLibrary/build/intermediates/bundles/debug/res/anim/loding_anim.xml -->
+</animation-list>  <!-- From: file:/E:/android_code/AoToBang_Client_Android/PullToRefreshLibrary/src/main/res/anim/loding_anim.xml --><!-- From: file:/E:/android_code/AoToBang_Client_Android/PullToRefreshLibrary/build/intermediates/bundles/debug/res/anim/loding_anim.xml -->

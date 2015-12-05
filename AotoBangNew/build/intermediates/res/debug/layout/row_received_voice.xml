@@ -89,4 +89,4 @@
             android:layout_toLeftOf="@id/frm_voice" />
     </RelativeLayout>
 
-</LinearLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/row_received_voice.xml -->
+</LinearLayout><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/row_received_voice.xml -->

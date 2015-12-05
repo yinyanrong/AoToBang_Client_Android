@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-land/values.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-land/values.xml -->
     <eat-comment/>
     <dimen name="abs__action_bar_default_height">40dip</dimen>
     <dimen name="abs__action_bar_icon_vertical_padding">4dip</dimen>
@@ -8,7 +8,7 @@
     <dimen name="abs__action_bar_subtitle_text_size">12dp</dimen>
     <dimen name="abs__action_bar_subtitle_top_margin">-2dp</dimen>
     <dimen name="abs__action_bar_title_text_size">16dp</dimen>
-    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/Crop/unspecified/res/values-land/values-land.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/Crop/unspecified/res/values-land/values-land.xml -->
     <eat-comment/>
     <dimen name="crop__bar_height">48dp</dimen>
 </resources>

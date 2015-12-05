@@ -4,4 +4,4 @@
         android:color="@color/crop__selector_pressed">
   <item android:drawable="@color/crop__button_bar" />
 </ripple>
-<!-- From: file:/E:/android/studioWorks/AotoBangAS/Crop/src/main/res/drawable-v21/crop__selectable_background.xml -->
+<!-- From: file:/E:/android_code/AoToBang_Client_Android/Crop/src/main/res/drawable-v21/crop__selectable_background.xml -->

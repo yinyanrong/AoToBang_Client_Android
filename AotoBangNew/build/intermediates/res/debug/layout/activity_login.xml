@@ -146,4 +146,4 @@
         android:text="@string/login"
         android:textColor="@android:color/white"
         android:textSize="@dimen/textsize_large" />
-</RelativeLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/activity_login.xml -->
+</RelativeLayout><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/activity_login.xml -->

@@ -10,4 +10,4 @@
     <item
         android:drawable="@drawable/left_voice3"
         android:duration="200" />
-</animation-list><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/anim/voice_from_icon.xml -->
+</animation-list><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/anim/voice_from_icon.xml -->

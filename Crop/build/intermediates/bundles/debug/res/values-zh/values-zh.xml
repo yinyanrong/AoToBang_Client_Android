@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <!-- From: file:/E:/android/studioWorks/AotoBangAS/Crop/src/main/res/values-zh/strings.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/Crop/src/main/res/values-zh/strings.xml -->
     <eat-comment/>
     <string name="crop__cancel" ns1:ignore="ButtonCase">取消</string>
     <string name="crop__done">完成</string>

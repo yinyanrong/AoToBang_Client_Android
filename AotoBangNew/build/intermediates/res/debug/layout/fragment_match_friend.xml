@@ -45,4 +45,4 @@
         app:rotation_degrees="5"
         app:max_visible="3"
         app:min_adapter_stack="6" />
-</FrameLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/fragment_match_friend.xml -->
+</FrameLayout><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/fragment_match_friend.xml -->

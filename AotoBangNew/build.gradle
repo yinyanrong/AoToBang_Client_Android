@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.aotobang.app"
         minSdkVersion 14
-        targetSdkVersion 18
+        targetSdkVersion 23
 
         testApplicationId "com.aotobang.app"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"

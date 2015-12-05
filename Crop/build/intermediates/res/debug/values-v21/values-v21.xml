@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/android/studioWorks/AotoBangAS/Crop/src/main/res/values-v21/colors.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/Crop/src/main/res/values-v21/colors.xml -->
     <eat-comment/>
     <color name="crop__selector_pressed">#aaaaaa</color>
 </resources>

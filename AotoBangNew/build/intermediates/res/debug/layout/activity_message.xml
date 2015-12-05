@@ -100,4 +100,4 @@
         ptr:ptrDrawable="@drawable/default_ptr_rotate"
         ptr:ptrMode="pullFromStart" />
 
-</RelativeLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/activity_message.xml -->
+</RelativeLayout><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/activity_message.xml -->

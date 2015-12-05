@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/E:/android/studioWorks/AotoBangAS/slidinglibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/slidinglibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference|color" name="background"/>
     <attr format="reference|color" name="backgroundSplit"/>
@@ -51,10 +51,10 @@
     <item name="abs__progress_circular" type="id"/>
     <item name="abs__progress_horizontal" type="id"/>
     <item name="abs__up" type="id"/>
-    <!-- From: file:/E:/android/studioWorks/AotoBangAS/slidinglibrary/src/main/res/values/ids.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/slidinglibrary/src/main/res/values/ids.xml -->
     <eat-comment/>
     <item name="selected_view" type="id"/>
-    <!-- From: file:/E:/android/studioWorks/AotoBangAS/slidinglibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/slidinglibrary/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="abs__max_action_buttons">2</integer>
     <string name="abs__action_bar_home_description">Navigate home</string>

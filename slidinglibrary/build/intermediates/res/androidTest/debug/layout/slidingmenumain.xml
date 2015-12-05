@@ -2,4 +2,4 @@
 <com.jeremyfeinstein.slidingmenu.lib.SlidingMenu xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/slidingmenumain"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent" /><!-- From: file:/E:/android/studioWorks/AotoBangAS/slidinglibrary/src/main/res/layout/slidingmenumain.xml --><!-- From: file:/E:/android/studioWorks/AotoBangAS/slidinglibrary/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml -->
+    android:layout_height="fill_parent" /><!-- From: file:/E:/android_code/AoToBang_Client_Android/slidinglibrary/src/main/res/layout/slidingmenumain.xml --><!-- From: file:/E:/android_code/AoToBang_Client_Android/slidinglibrary/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml -->

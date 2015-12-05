@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/message_btn_border" android:state_pressed="false"/>
     <item android:drawable="@drawable/message_btn_border"/>
 
-</selector><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/drawable/selector_interact_btn.xml -->
+</selector><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/drawable/selector_interact_btn.xml -->

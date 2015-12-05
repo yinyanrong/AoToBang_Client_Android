@@ -2,4 +2,4 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/menu_frame"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" /><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/sliding_menu_frame.xml -->
+    android:layout_height="match_parent" /><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/sliding_menu_frame.xml -->

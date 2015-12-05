@@ -67,4 +67,4 @@
         android:layout_below="@id/title_line" >
     </FrameLayout>
 
-</RelativeLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/sliding_content_frame.xml -->
+</RelativeLayout><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/sliding_content_frame.xml -->

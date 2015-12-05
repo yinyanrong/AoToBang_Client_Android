@@ -71,4 +71,4 @@
             android:layout_toLeftOf="@id/tv_chatcontent" />
     </RelativeLayout>
 
-</LinearLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/chatting_item_msg_text_left.xml -->
+</LinearLayout><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/chatting_item_msg_text_left.xml -->

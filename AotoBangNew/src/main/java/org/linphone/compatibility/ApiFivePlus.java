@@ -11,6 +11,7 @@ import org.linphone.core.LinphoneAddress;
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.app.Notification;
+import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.ContentProviderOperation;
 import android.content.ContentResolver;
@@ -30,6 +31,7 @@ import android.provider.ContactsContract.CommonDataKinds;
 import android.provider.ContactsContract.CommonDataKinds.Phone;
 import android.provider.ContactsContract.Contacts;
 import android.provider.ContactsContract.Data;
+import android.support.v4.app.NotificationCompat;
 import android.text.ClipboardManager;
 import android.view.ViewTreeObserver;
 import android.view.ViewTreeObserver.OnGlobalLayoutListener;
@@ -275,26 +277,48 @@ public class ApiFivePlus {
 		notif.iconLevel = 0;
 		notif.when = System.currentTimeMillis();
 		notif.flags &= Notification.FLAG_ONGOING_EVENT;
-		
+
 		notif.defaults |= Notification.DEFAULT_VIBRATE;
 		notif.defaults |= Notification.DEFAULT_SOUND;
 		notif.defaults |= Notification.DEFAULT_LIGHTS;
-		
-		notif.setLatestEventInfo(context, title, msg, intent);
-		
+		NotificationCompat.Builder notifyBuilder = new NotificationCompat.Builder(
+				context);
+		notifyBuilder.setContentTitle(title);
+		notifyBuilder.setContentText(msg);
+		Bitmap bitmap = BitmapFactory.decodeResource(context.getResources(),R.drawable.chat_icon_over);
+		notifyBuilder.setLargeIcon(bitmap);
+		notifyBuilder.setWhen(System.currentTimeMillis());
+		notifyBuilder.setAutoCancel(true);
+		NotificationManager mNotificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
+		notif=notifyBuilder.build();
+		mNotificationManager.notify(0,notif);
+
+//		Notification.Builder builder = new Notification.Builder(context);
+//		builder.setContentIntent(intent)
+//				.setSmallIcon(R.drawable.chat_icon_over)
+//				.setWhen(System.currentTimeMillis()).setAutoCancel(false)
+//				.setContentTitle(title).setContentText(msg);
+//		builder.startForeground(XXX, builder.getNotification());
+//		notif.setLatestEventInfo(context, title, msg, intent);
+
 		return notif;
 	}
 	
 	public static Notification createInCallNotification(Context context,
 			String title, String msg, int iconID, PendingIntent intent) {
-		Notification notif = new Notification();
-		notif.icon = iconID;
-		notif.iconLevel = 0;
-		notif.when = System.currentTimeMillis();
-		notif.flags &= Notification.FLAG_ONGOING_EVENT;
-		
-		notif.setLatestEventInfo(context, title, msg, intent);
-
+		Notification notif;
+		NotificationCompat.Builder notifyBuilder = new NotificationCompat.Builder(
+				context);
+		notifyBuilder.setContentIntent(intent);
+		notifyBuilder.setContentTitle(title);
+		notifyBuilder.setContentText(msg);
+		notifyBuilder.setSmallIcon(iconID);
+		notifyBuilder.setWhen(System.currentTimeMillis());
+		notifyBuilder.setAutoCancel(true);
+		notifyBuilder.setDefaults(Notification.DEFAULT_ALL);
+		NotificationManager mNotificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
+		notif=notifyBuilder.build();
+		mNotificationManager.notify(0, notif);
 		return notif;
 	}
 
@@ -369,15 +393,24 @@ public class ApiFivePlus {
 	}
 
 	public static Notification createNotification(Context context, String title, String message, int icon, int level, PendingIntent intent, boolean isOngoingEvent) {
-		Notification notif = new Notification();
-		notif.icon = icon;
-		notif.iconLevel = level;
-		notif.when = System.currentTimeMillis();
+
+		Notification notif;
+		NotificationCompat.Builder notifyBuilder = new NotificationCompat.Builder(
+				context);
+		notifyBuilder.setContentIntent(intent);
+		notifyBuilder.setContentTitle(title);
+		notifyBuilder.setSmallIcon(icon,level);
+		notifyBuilder.setContentText(message);
+		notifyBuilder.setSmallIcon(icon);
+		notifyBuilder.setWhen(System.currentTimeMillis());
+		notifyBuilder.setAutoCancel(true);
+		notifyBuilder.setDefaults(Notification.DEFAULT_ALL);
+		NotificationManager mNotificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
+		notif=notifyBuilder.build();
 		if (isOngoingEvent) {
 			notif.flags |= Notification.FLAG_ONGOING_EVENT;
 		}
-		notif.setLatestEventInfo(context, title, message, intent);
-		
+		mNotificationManager.notify(0, notif);
 		return notif;
 	}
 }

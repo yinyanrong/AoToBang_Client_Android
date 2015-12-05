@@ -19,4 +19,4 @@
     android:duration="@android:integer/config_longAnimTime"
     android:fromYDelta="0"
     android:toYDelta="100%p" />
-<!-- From: file:/E:/AotoBang/AoToBang_Client_Android/PullToRefreshLibrary/src/main/res/anim/slide_out_to_bottom.xml --><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/PullToRefreshLibrary/unspecified/res/anim/slide_out_to_bottom.xml -->
+<!-- From: file:/E:/android_code/AoToBang_Client_Android/PullToRefreshLibrary/src/main/res/anim/slide_out_to_bottom.xml --><!-- From: file:/E:/android_code/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/PullToRefreshLibrary/unspecified/res/anim/slide_out_to_bottom.xml -->

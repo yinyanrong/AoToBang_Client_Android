@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/android/studioWorks/AotoBangAS/Crop/build/intermediates/bundles/debug/res/values-land/values-land.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/Crop/build/intermediates/bundles/debug/res/values-land/values-land.xml -->
     <eat-comment/>
     <dimen name="crop__bar_height">48dp</dimen>
 </resources>

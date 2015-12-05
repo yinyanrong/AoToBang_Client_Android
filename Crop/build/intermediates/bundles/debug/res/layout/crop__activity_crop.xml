@@ -16,4 +16,4 @@
         android:background="@drawable/crop__texture"
         android:layout_below="@id/done_cancel_bar" />
 
-</RelativeLayout><!-- From: file:/E:/android/studioWorks/AotoBangAS/Crop/src/main/res/layout/crop__activity_crop.xml -->
+</RelativeLayout><!-- From: file:/E:/android_code/AoToBang_Client_Android/Crop/src/main/res/layout/crop__activity_crop.xml -->

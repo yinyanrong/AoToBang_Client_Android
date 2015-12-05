@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <!-- From: file:/E:/android/studioWorks/AotoBangAS/Crop/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/E:/android_code/AoToBang_Client_Android/Crop/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="cropImageStyle"/>
     <color name="crop__button_bar">#f3f3f3</color>
