@@ -1,0 +1,2410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string-array name="adaptive_rate_algorithm_entries">
+		<item>Simple</item>
+		<item>Stateful</item>
+	</string-array>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string-array name="limit_bitrate_entries">
+    <item>10 kbits/s</item>
+    <item>15 kbits/s</item>
+    <item>20 kbits/s</item>
+    <item>36 kbits/s</item>
+    <item>64 kbits/s</item>
+    <item>128 kbits/s</item>
+  </string-array>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string-array name="limit_bitrate_entry_values">
+		<item>10</item>
+		<item>15</item>
+		<item>20</item>
+		<item>36</item>
+		<item>64</item>
+		<item>128</item>
+	</string-array>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string-array name="tunnel_mode_entries">
+    <item>disabled</item>
+    <item>3G only</item>
+    <item>always</item>
+    <item>auto</item>
+  </string-array>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string-array name="tunnel_mode_entry_values">
+		<item>@string/tunnel_mode_entry_value_disabled</item>
+		<item>@string/tunnel_mode_entry_value_3G_only</item>
+		<item>@string/tunnel_mode_entry_value_always</item>
+		<item>@string/tunnel_mode_entry_value_auto</item>
+	</string-array>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference|color" name="background"/>
+    <attr format="reference|color" name="backgroundSplit"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/Crop/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="cropImageStyle"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="divider"/>
+    <attr format="dimension" name="height"/>
+    <attr format="reference" name="subtitleTextStyle"/>
+    <attr format="reference" name="titleTextStyle"/>
+    <bool name="abs__action_bar_embed_tabs">false</bool>
+    <bool name="abs__action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abs__config_actionMenuItemAllCaps">true</bool>
+    <bool name="abs__config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abs__config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abs__split_action_bar_is_narrow">true</bool>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <bool name="allow_cancel_remote_provisioning_login_activity">true</bool>
+    <bool name="allow_chat_multiline">false</bool>
+    <bool name="allow_edit_in_dialer">true</bool>
+    <bool name="allow_ringing_while_early_media">true</bool>
+    <bool name="allow_transfers">true</bool>
+    <bool name="auto_answer_calls">false</bool>
+    <bool name="automatically_start_intercepted_outgoing_gsm_call">true</bool>
+    <bool name="call_last_log_if_adress_is_empty">true</bool>
+    <bool name="disable_all_patented_codecs_for_markets">false</bool>
+    <bool name="disable_all_security_features_for_markets">false</bool>
+    <bool name="disable_animations">false</bool>
+    <bool name="disable_chat">false</bool>
+    <bool name="disable_chat__message_notification">false</bool>
+    <bool name="disable_chat_send_file">false</bool>
+    <bool name="disable_every_log">false</bool>
+    <bool name="disable_options_in_call">false</bool>
+    <bool name="display_about_in_settings">true</bool>
+    <bool name="display_account_wizard_at_first_start">true</bool>
+    <bool name="display_call_stats">true</bool>
+    <bool name="display_confirmation_popup_after_first_configuration">false</bool>
+    <bool name="display_messages_time_and_status">true</bool>
+    <bool name="display_sms_remote_provisioning_activity">false</bool>
+    <bool name="display_time_aside">false</bool>
+    <bool name="emoticons_in_messages">true</bool>
+    <bool name="enable_call_notification">true</bool>
+    <bool name="enable_linphone_friends">false</bool>
+    <bool name="enable_log_collect">false</bool>
+    <bool name="enable_push_id">true</bool>
+    <bool name="exit_button_on_dialer">false</bool>
+    <bool name="forbid_app_usage_until_remote_provisioning_completed">false</bool>
+    <bool name="forbid_empty_new_contact_in_editor">true</bool>
+    <bool name="forbid_self_call">false</bool>
+    <bool name="hash_images_as_name_before_upload">true</bool>
+    <bool name="hide_accounts">false</bool>
+    <bool name="hide_camera_settings">false</bool>
+    <bool name="hide_generic_accounts_wizard">false</bool>
+    <bool name="hide_linphone_accounts_wizard">false</bool>
+    <bool name="hide_phone_numbers_in_editor">false</bool>
+    <bool name="hide_remote_provisioning_in_wizard">false</bool>
+    <bool name="hide_sip_addresses_in_editor">false</bool>
+    <bool name="hide_wizard">false</bool>
+    <bool name="intercept_outgoing_gsm_calls">false</bool>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <bool name="isTablet">false</bool>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <bool name="lock_statusbar">false</bool>
+    <bool name="never_display_sip_addresses">false</bool>
+    <bool name="only_display_username_if_unknown">true</bool>
+    <bool name="override_domain_using_default_one">false</bool>
+    <bool name="pre_fill_email_in_wizard">true</bool>
+    <bool name="replace_chat_by_about">false</bool>
+    <bool name="replace_settings_by_about">false</bool>
+    <bool name="replace_wizard_with_old_interface">false</bool>
+    <bool name="setup_account_validation_mandatory">false</bool>
+    <bool name="setup_cancel_move_to_back">false</bool>
+    <bool name="setup_use_linphone_as_first_fragment">false</bool>
+    <bool name="show_current_calls_above_video">false</bool>
+    <bool name="show_statusbar_only_on_dialer">true</bool>
+    <bool name="show_tutorials_instead_of_app">false</bool>
+    <bool name="use_android_native_contact_edit_interface">false</bool>
+    <bool name="use_linphone_chat_storage">true</bool>
+    <bool name="use_linphone_server_ports">true</bool>
+    <bool name="use_linphonecore_ringing">false</bool>
+    <bool name="use_simple_history">true</bool>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
+    <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/PagerSlidingTabStrip/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="circle_color">#eeeeee</color>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/Crop/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="dark">#FF222222</color>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/ShadowLayout/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="default_fill_color">#ffffff</color>
+    <color name="default_shadow_color">#88757575</color>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="global_bg">#f9f9f9</color>
+    <color name="light">#FFEEEEEE</color>
+    <color name="line_bg">#cccccc</color>
+    <color name="main_text_color_red">#ff4e4e</color>
+    <color name="main_text_gray">#666666</color>
+    <color name="main_title_bg">#f7f7f8</color>
+    <color name="menu_ll_bg">#ff6666</color>
+    <color name="message_bg">#ffffff</color>
+    <color name="red">#ce0000</color>
+    <color name="shadow">#AA000000</color>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="CropImageView"><attr format="reference|color" name="highlightColor"/><attr format="boolean" name="showThirds"/><attr format="boolean" name="showCircle"/><attr name="showHandles"><enum name="changing" value="0"/><enum name="always" value="1"/><enum name="never" value="2"/></attr></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/><flag name="anim" value="0x2"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="ShadowLayout"><attr format="dimension" name="sl_cornerRadius"/><attr format="dimension" name="sl_shadowRadius"/><attr format="color" name="sl_shadowColor"/><attr format="dimension" name="sl_dx"/><attr format="dimension" name="sl_dy"/></declare-styleable>
+    <declare-styleable name="SherlockActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr format="string" name="title"/><attr format="string" name="subtitle"/><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr name="divider"/><attr name="background"/><attr format="reference|color" name="backgroundStacked"/><attr name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable>
+    <declare-styleable name="SherlockActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
+    <declare-styleable name="SherlockActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/></declare-styleable>
+    <declare-styleable name="SherlockActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="SherlockMenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="SherlockMenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="android:showAsAction"/><attr name="android:actionLayout"/><attr name="android:actionViewClass"/><attr name="android:actionProviderClass"/></declare-styleable>
+    <declare-styleable name="SherlockMenuView"><attr format="reference" name="itemTextAppearance"/><attr format="reference" name="horizontalDivider"/><attr format="reference" name="verticalDivider"/><attr format="color|reference" name="headerBackground"/><attr format="color|reference" name="itemBackground"/><attr format="reference" name="windowAnimationStyle"/><attr format="float" name="itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="SherlockSearchView"><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/></declare-styleable>
+    <declare-styleable name="SherlockSpinner"><attr name="android:prompt"/><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr name="android:popupPromptView"/><attr name="android:gravity"/></declare-styleable>
+    <declare-styleable name="SherlockTheme"><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionBarStyle"/><attr format="reference" name="actionBarSplitStyle"/><attr format="reference" name="actionBarWidgetTheme"/><attr format="dimension" name="actionBarSize"><enum name="wrap_content" value="0"/></attr><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionBarItemBackground"/><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeStyle"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeSplitBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="actionModeShareDrawable"/><attr format="reference" name="actionModePopupWindowStyle"/><attr format="reference" name="buttonStyleSmall"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="windowContentOverlay"/><attr format="reference" name="textAppearanceLargePopupMenu"/><attr format="reference" name="textAppearanceSmallPopupMenu"/><attr format="reference" name="textAppearanceSmall"/><attr format="color" name="textColorPrimary"/><attr format="color" name="textColorPrimaryDisableOnly"/><attr format="color" name="textColorPrimaryInverse"/><attr format="reference" name="spinnerItemStyle"/><attr format="reference" name="spinnerDropDownItemStyle"/><attr format="reference" name="searchAutoCompleteTextView"/><attr format="reference" name="searchDropdownBackground"/><attr format="reference" name="searchViewCloseIcon"/><attr format="reference" name="searchViewGoIcon"/><attr format="reference" name="searchViewSearchIcon"/><attr format="reference" name="searchViewVoiceIcon"/><attr format="reference" name="searchViewEditQuery"/><attr format="reference" name="searchViewEditQueryBackground"/><attr format="reference" name="searchViewTextField"/><attr format="reference" name="searchViewTextFieldRight"/><attr format="reference|color" name="textColorSearchUrl"/><attr format="dimension" name="searchResultListItemHeight"/><attr format="reference" name="textAppearanceSearchResultTitle"/><attr format="reference" name="textAppearanceSearchResultSubtitle"/><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="dimension" name="listPreferredItemPaddingRight"/><attr format="reference" name="textAppearanceListItemSmall"/><attr format="dimension" name="windowMinWidthMajor"/><attr format="dimension" name="windowMinWidthMinor"/><attr format="reference" name="dividerVertical"/><attr format="reference" name="actionDropDownStyle"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="actionSpinnerItemStyle"/><attr format="boolean" name="windowNoTitle"/><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr format="boolean" name="windowSplitActionBar"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="activityChooserViewStyle"/><attr format="reference" name="activatedBackgroundIndicator"/><attr format="reference" name="dropDownHintAppearance"/></declare-styleable>
+    <declare-styleable name="SherlockView"><attr name="android:focusable"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="SwipeFlingAdapterView"><attr format="reference" name="SwipeFlingStyle"/><attr format="float" name="rotation_degrees"/><attr format="integer" name="min_adapter_stack"/><attr format="integer" name="max_visible"/></declare-styleable>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="abs__action_bar_default_height">48dip</dimen>
+    <dimen name="abs__action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abs__action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abs__action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abs__action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abs__action_bar_title_text_size">18dp</dimen>
+    <dimen name="abs__action_button_min_width">56dip</dimen>
+    <dimen name="abs__config_prefDialogWidth">320dp</dimen>
+    <dimen name="abs__dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abs__dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abs__dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abs__search_view_preferred_width">320dip</dimen>
+    <dimen name="abs__search_view_text_min_width">160dip</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="base_padding">16dp</dimen>
+    <dimen name="biaoqing_icon">80dp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/SwipeCards/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="card_item_margin">5dip</dimen>
+    <dimen name="card_item_margin_left_right">5dip</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="chat_content">15sp</dimen>
+    <dimen name="common_btn_width">30dp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/Crop/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="crop__bar_height">56dp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/ShadowLayout/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="default_corner_radius">4dp</dimen>
+    <dimen name="default_shadow_radius">4dp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="edit_or_btn_margin">40dp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/PullToRefreshLibrary/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="header_logo_extra_heigh">16dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="match_circle_wdith">80dp</dimen>
+    <dimen name="match_circle_wdith_middle">60dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="size_avatar">45dp</dimen>
+    <dimen name="slidingmenu_offset">100dp</dimen>
+    <dimen name="textsize_large">18sp</dimen>
+    <dimen name="textsize_little_small">12sp</dimen>
+    <dimen name="textsize_little_small2">10sp</dimen>
+    <dimen name="textsize_middle">16sp</dimen>
+    <dimen name="textsize_small">14sp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/SwipeCards/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="widget_margin">8dp</dimen>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <item name="abs__action_menu_divider" type="id"/>
+    <item name="abs__action_menu_presenter" type="id"/>
+    <item name="abs__home" type="id"/>
+    <item name="abs__progress_circular" type="id"/>
+    <item name="abs__progress_horizontal" type="id"/>
+    <item name="abs__up" type="id"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/PullToRefreshLibrary/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <item name="gridview" type="id"/>
+    <item name="scrollview" type="id"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/slidinglibrary/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <item name="selected_view" type="id"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/PullToRefreshLibrary/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <item name="webview" type="id"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <integer name="abs__max_action_buttons">2</integer>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <integer name="num_cols">1</integer>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="AddCallButtonText">Add call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Add_a_button_was_clicked">添加按钮被点击</string>
+    <string name="Add_a_friend">加个好友呗</string>
+    <string name="Add_group_members_fail">添加群成员失败:</string>
+    <string name="Agree_with_failure">同意失败:</string>
+    <string name="Agreed_to_your_group_chat_application">同意了你的群聊申请</string>
+    <string name="Application_and_notify">申请与通知</string>
+    <string name="Apply_to_the_group_of">申请加入群：</string>
+    <string name="Are_agree_with">正在同意...</string>
+    <string name="Are_connected_to_each_other">正在连接对方...</string>
+    <string name="Are_logged_out">正在退出登录..</string>
+    <string name="Are_moving_to_blacklist">正在移入至黑名单</string>
+    <string name="Are_removed">正在移除...</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="CancelButtonText">Cancel</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Cant_chat_with_yourself">不能和自己聊天</string>
+    <string name="Change_the_group_name">改变群名称</string>
+    <string name="Confirm_password_cannot_be_empty">确认密码不能为空!</string>
+    <string name="Connection_failure">连接建立失败！...</string>
+    <string name="Current_version">当前版本</string>
+    <string name="Delete_failed">删除失败:</string>
+    <string name="Delete_the_contact">删除联系人</string>
+    <string name="Did_not_download">未下载</string>
+    <string name="Dissolve_group_chat_tofail">解散群聊失败:</string>
+    <string name="Download_the_pictures">下载图片: 0%</string>
+    <string name="Download_the_pictures_new">下载图片:</string>
+    <string name="Empty_the_chat_record">清空聊天记录</string>
+    <string name="Exit_the_group_chat">退出群聊</string>
+    <string name="Exit_the_group_chat_failure">退出群聊失败:</string>
+    <string name="Failed_to_create_groups">创建群组失败:</string>
+    <string name="Failed_to_download_file">下载文件失败:</string>
+    <string name="Failed_to_get_group_chat_information">获取群聊信息失败:</string>
+    <string name="Failed_to_join_the_group_chat">加入群聊失败:</string>
+    <string name="File_does_not_exist">文件不存在</string>
+    <string name="Group_chat">群聊:</string>
+    <string name="Group_chat_information">群聊资料</string>
+    <string name="Group_chat_profile">群聊简介</string>
+    <string name="Group_name_cannot_be_empty">群组名称不能为空</string>
+    <string name="Group_of_Lord">群主</string>
+    <string name="Hands_free">免提</string>
+    <string name="Has_agreed_to">已同意</string>
+    <string name="Has_agreed_to_your_friend_request">已同意你的好友请求</string>
+    <string name="Has_been_cancelled">已取消</string>
+    <string name="Has_refused_to">已拒绝</string>
+    <string name="Have_downloaded">已下载</string>
+    <string name="In_the_call">通话中...</string>
+    <string name="Into_the_blacklist">移入到黑名单？</string>
+    <string name="Introduction">简介</string>
+    <string name="Invite_you_to_join_a_group_chat">邀请你加入了群聊</string>
+    <string name="Is_download_voice_click_later">正在下载语音，稍后点击</string>
+    <string name="Is_landing">正在登录...</string>
+    <string name="Is_moved_into_blacklist">正在移入黑名单...</string>
+    <string name="Is_not_yet_connected_to_the_server">尚未连接至服务器</string>
+    <string name="Is_sending_a_request">正在发送请求...</string>
+    <string name="Is_the_registered">正在注册...</string>
+    <string name="Is_to_create_a_group_chat">正在创建群聊...</string>
+    <string name="Is_unblock">正在解除屏蔽...</string>
+    <string name="Join_the_group_chat">加入群聊成功</string>
+    <string name="Less_than_chat_server_connection">连接不到聊天服务器</string>
+    <string name="Log_Upload_failed">log上传失败</string>
+    <string name="Log_uploaded_successfully">日志上传成功</string>
+    <string name="Login_failed">登录失败:</string>
+    <string name="Logoff_notification">下线通知</string>
+    <string name="Mac_error">Mac地址不正确</string>
+    <string name="Making_sure_your_location">正在确定你的位置...</string>
+    <string name="Modify_the_group_name_successful">修改群名称成功</string>
+    <string name="Move_into_blacklist_failure">移入黑名单失败</string>
+    <string name="Move_into_blacklist_success">移入黑名单成功</string>
+    <string name="Move_into_the_blacklist_new">移入到黑名单</string>
+    <string name="Network_error">网络出错</string>
+    <string name="Not_Set">未设置</string>
+    <string name="Open_group_chat">公开的群聊</string>
+    <string name="Open_group_members_invited">开放群成员邀请</string>
+    <string name="Open_the_equipment_failure">打开设备失败!</string>
+    <string name="Password_cannot_be_empty">密码不能为空！</string>
+    <string name="Please_enter_a_username">请输入用户名</string>
+    <string name="Recording_without_permission">无录音权限</string>
+    <string name="Refused">已拒绝</string>
+    <string name="Registered_successfully">注册成功</string>
+    <string name="Registration_failed">注册失败:</string>
+    <string name="Remove_the_notification">移除通知</string>
+    <string name="Removed_from_the_failure">移出失败</string>
+    <string name="Request_add_buddy_failure">请求添加好友失败:</string>
+    <string name="Request_to_add_you_as_a_friend">请求加你为好友</string>
+    <string name="Request_to_join">请求加入</string>
+    <string name="Select_the_contact">选择联系人</string>
+    <string name="Send_the_following_pictures">发送以下图片？</string>
+    <string name="Send_voice_need_sdcard_support">发送语音需要sdcard支持</string>
+    <string name="Shielding_of_the_message">屏蔽群消息</string>
+    <string name="The_delete_button_is_clicked">删除按钮被点击</string>
+    <string name="The_dissolution_of_chatting">解散群聊</string>
+    <string name="The_dissolution_of_chatting_new">解散群聊</string>
+    <string name="The_file_is_not_greater_than_10_m">文件不能大于10M</string>
+    <string name="The_new_group_chat">新建群组</string>
+    <string name="The_other_is_hang_up">对方已经挂断</string>
+    <string name="The_other_is_not_online">对方不在线</string>
+    <string name="The_other_is_on_the_phone">对方正在通话中</string>
+    <string name="The_other_is_on_the_phone_please">对方正在通话中，请稍后再拨</string>
+    <string name="The_other_party_did_not_answer">对方未接听</string>
+    <string name="The_other_party_did_not_answer_new">对方未接听</string>
+    <string name="The_other_party_has_refused_to">对方已拒绝</string>
+    <string name="The_other_party_is_not_online">对方不在线，请稍后再拨...</string>
+    <string name="The_other_party_refused_to_accept">对方拒绝接受！...</string>
+    <string name="The_recording_time_is_too_short">时间太短</string>
+    <string name="The_video_to_start">录像开始</string>
+    <string name="This_user_is_already_your_friend">此用户已是你的好友</string>
+    <string name="To_join_the_chat">加入群聊</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="TransferCallButtonText">Transfer call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Two_input_password">两次输入的密码不一致，请重新输入!</string>
+    <string name="Upload_the_log">上传日志中</string>
+    <string name="User_already_exists">用户已存在！</string>
+    <string name="User_name_cannot_be_empty">用户名不能为空！</string>
+    <string name="Version_number_is_wrong">版本号错误</string>
+    <string name="Video_footage">拍摄录像</string>
+    <string name="Whether_the_public">是否公开</string>
+    <string name="Whether_to_empty_all_chats">是否清空所有聊天记录</string>
+    <string name="Whether_to_send">是否发送？</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <string name="about_bugreport_email">linphone-android@belledonne-communications.com</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="about_bugreport_email_text">Describe problem here</string>
+    <string name="about_error_generating_bugreport_attachement">Error generating bug report</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="about_link">http://www.linphone.org\n\nInstructions\nhttp://www.linphone.org/m/help\n\n© 2011 Belledonne Communications</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="about_logs_not_found">Logs not found.</string>
+    <string name="about_mailer_chooser_text">Send bug report with…</string>
+    <string name="about_reading_logs">Reading logs, may takes time…</string>
+    <string name="about_report_issue">Report issue</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="about_text">Linphone %s SIP (rfc 3261) compatible phone under GNU Public License V2</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="abs__action_bar_home_description">Navigate home</string>
+    <string name="abs__action_bar_up_description">Navigate up</string>
+    <string name="abs__action_menu_overflow_description">More options</string>
+    <string name="abs__action_mode_done">Done</string>
+    <string name="abs__activity_chooser_view_see_all">See all...</string>
+    <string name="abs__activitychooserview_choose_application">Choose an application</string>
+    <string name="abs__searchview_description_clear">Clear query</string>
+    <string name="abs__searchview_description_query">Search query</string>
+    <string name="abs__searchview_description_search">Search</string>
+    <string name="abs__searchview_description_submit">Submit query</string>
+    <string name="abs__searchview_description_voice">Voice search</string>
+    <string name="abs__shareactionprovider_share_with">Share with</string>
+    <string name="abs__shareactionprovider_share_with_application">Share with <ns1:g example="Bluetooth" id="application_name">%s</ns1:g></string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="account_existed">用户已存在</string>
+    <string name="account_inexistence">用户不存在</string>
+    <string name="account_lock">账户已被锁定</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_friend">添加好友</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="add_to_contacts">Add to contacts</string>
+    <string name="addressHint">Number or address</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="address_book">通讯录</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="addressbook_label">Linphone</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="agree">同意</string>
+    <string name="answer">接听</string>
+    <string name="app_name">凹凸邦</string>
+    <string name="are_empty_group_of_news">正在清空群消息...</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="at_least_a_protocol">At least one item is required</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="attach_file">文件</string>
+    <string name="attach_location">位置</string>
+    <string name="attach_picture">图片</string>
+    <string name="attach_smile">表情</string>
+    <string name="attach_take_pic">拍照</string>
+    <string name="attach_video_call">视频通话</string>
+    <string name="attach_voice_call">语音电话</string>
+    <string name="back">返回</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="bad_target_uri">Bad contact : %s</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="be_removing">正在移出...</string>
+    <string name="being_added">正在添加...</string>
+    <string name="black_item">黑名单</string>
+    <string name="blacklist">黑名单列表</string>
+    <string name="ble_not_supported">不支持ble</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="bluetooth_button_txt">Bluetooth</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="book_black">通讯录黑名单</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="button_about">About</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="button_add">添加</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="button_add_call">Add call</string>
+    <string name="button_add_contact">New contact</string>
+    <string name="button_all_call">All</string>
+    <string name="button_all_contacts">All</string>
+    <string name="button_back">Back</string>
+    <string name="button_bluetooth">Bluetooth</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_chat">Chat</string>
+    <string name="button_contacts">Contacts</string>
+    <string name="button_delete_all">Delete</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_history">History</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="button_logout">退出登录</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="button_micro">Micro</string>
+    <string name="button_missed_call">Missed</string>
+    <string name="button_new_chat">New conversation</string>
+    <string name="button_ok">Okay</string>
+    <string name="button_options">Options</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="button_pushtotalk">按住说话</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="button_receiver">Receiver</string>
+    <string name="button_route">Route</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="button_save">保存</string>
+    <string name="button_search">查找</string>
+    <string name="button_send">发送</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="button_send_message">Send</string>
+    <string name="button_send_picture">Pic</string>
+    <string name="button_settings">Settings</string>
+    <string name="button_setup_back">Back</string>
+    <string name="button_setup_cancel">Cancel</string>
+    <string name="button_setup_next">Let\'s go</string>
+    <string name="button_sip_contacts">SIP</string>
+    <string name="button_speaker">Speaker</string>
+    <string name="button_transfer">Transfer</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="button_uploadlog">上传运行日志</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="button_video">Video</string>
+    <string name="call">Call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="call_duration">通话时长</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="call_error">Cannot call %s</string>
+    <string name="call_state_incoming">Incoming</string>
+    <string name="call_state_missed">Missed</string>
+    <string name="call_state_outgoing">Outgoing</string>
+    <string name="call_stats_audio">Audio</string>
+    <string name="call_stats_codec">Codec:</string>
+    <string name="call_stats_download">Download bandwidth:</string>
+    <string name="call_stats_ice">ICE connectivity:</string>
+    <string name="call_stats_upload">Upload bandwidth:</string>
+    <string name="call_stats_video">Video</string>
+    <string name="call_stats_video_resolution">Video size:</string>
+    <string name="call_update_desc">Your correspondent would like to add video to the current call.</string>
+    <string name="call_update_no">Decline</string>
+    <string name="call_update_title">Call update requested</string>
+    <string name="call_update_yes">Accept</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="cancel">取消</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="cannot_resume_paused_by_remote_call">Cannot resume call paused by remote</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="cant_find_pictures">找不到图片</string>
+    <string name="change_the_group_name_failed_please">改变群名称失败，请检查网络或稍后重试</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="chat">Chat</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="chat_more_gift">小心意</string>
+    <string name="chat_more_interact">互动</string>
+    <string name="chat_more_location">位置</string>
+    <string name="chat_more_photo">拍照</string>
+    <string name="chat_more_picture">图片</string>
+    <string name="chat_toast">只有连接了玩具的用户才可主动申请互动</string>
+    <string name="chatset">聊天设置</string>
+    <string name="chatting_is_dissolution">正在解散群聊...</string>
+    <string name="clear_all_records">是否清空所有聊天记录？</string>
+    <string name="clear_records">清空记录</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="click_to_show_first_login_view">Start</string>
+    <string name="close_button_text">Close</string>
+    <string name="communication_encrypted">Encrypted</string>
+    <string name="conf_admin_choice_enter">Enter conference</string>
+    <string name="conf_admin_choice_leave">Momentarily leave conference</string>
+    <string name="conf_admin_choice_terminate">Terminate conference</string>
+    <string name="conf_conference">Conference</string>
+    <string name="conf_show_details_text">Show details</string>
+    <string name="conf_simple_merge_bt_txt">Merge</string>
+    <string name="conf_simple_transfer_bt_txt">Transfer</string>
+    <string name="conf_simple_video_bt_txt">video</string>
+    <string name="conference">Conference</string>
+    <string name="config_error">%s, do you want to go to the settings page ?</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="confirm_forward_to">确定转发到：%1$s ?</string>
+    <string name="confirm_resend">确认重发该信息？</string>
+    <string name="confirm_the_members">确认将此成员加入至此群黑名单?</string>
+    <string name="confirmpassword">确认密码</string>
+    <string name="connect_conflict">同一帐号已在其他设备登录</string>
+    <string name="connect_failuer_toast">请检查网络或稍候重试</string>
+    <string name="connected">已连接</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="cont">Continue</string>
+    <string name="contact_first_name">First name</string>
+    <string name="contact_last_name">Last name</string>
+    <string name="content_description_about">About page</string>
+    <string name="content_description_add">Add button</string>
+    <string name="content_description_add_call">Add call</string>
+    <string name="content_description_add_contact">Add to contacts</string>
+    <string name="content_description_all_calls">All calls</string>
+    <string name="content_description_all_contacts">All contacts</string>
+    <string name="content_description_back">Back button</string>
+    <string name="content_description_backspace">Backspace</string>
+    <string name="content_description_call">Call</string>
+    <string name="content_description_call_direction">Call direction</string>
+    <string name="content_description_call_quality">Call quality</string>
+    <string name="content_description_cancel">Cancel</string>
+    <string name="content_description_cancel_button">Cancel button</string>
+    <string name="content_description_chat">Chat</string>
+    <string name="content_description_chat_button">Chat button</string>
+    <string name="content_description_conference">Conference</string>
+    <string name="content_description_contact_picture">Contact picture</string>
+    <string name="content_description_contacts">Contacts button</string>
+    <string name="content_description_delete">Delete button</string>
+    <string name="content_description_detail">Detail</string>
+    <string name="content_description_dial_back">Dial back</string>
+    <string name="content_description_dialer">Dialer</string>
+    <string name="content_description_edit">Edit button</string>
+    <string name="content_description_encryption">Encryption</string>
+    <string name="content_description_hang_up">Hang up</string>
+    <string name="content_description_history">History button</string>
+    <string name="content_description_led"/>
+    <string name="content_description_linphone_contacts">Linphone contacts</string>
+    <string name="content_description_mark"/>
+    <string name="content_description_message_status">Message status</string>
+    <string name="content_description_missed_calls">Missed calls</string>
+    <string name="content_description_new_contact">New contact</string>
+    <string name="content_description_new_discussion">New discussion</string>
+    <string name="content_description_next">Next button</string>
+    <string name="content_description_numpad">Numpad</string>
+    <string name="content_description_pause">Pause</string>
+    <string name="content_description_search">Search</string>
+    <string name="content_description_send_message">Send message</string>
+    <string name="content_description_settings">Settings button</string>
+    <string name="content_description_setup_ok">Ok</string>
+    <string name="content_description_switch_camera">Switch camera</string>
+    <string name="content_description_switch_video">Switch video</string>
+    <string name="content_description_toggle_micro">Toggle micro</string>
+    <string name="content_description_toggle_speaker">Toggle speaker</string>
+    <string name="content_description_validate">Validate button</string>
+    <string name="content_description_welcome">Welcome to the account setup assistant</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="copy">复制</string>
+    <string name="copy_message">复制消息</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="copy_text">Copy text</string>
+    <string name="couldnt_accept_call">An error occurred while accepting call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/Crop/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="crop__cancel" ns1:ignore="ButtonCase">CANCEL</string>
+    <string name="crop__done">DONE</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="decline">Decline</string>
+    <string name="default_account_flag">Default account</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <string name="default_domain">sip.linphone.org</string>
+    <string name="default_stun">stun.linphone.org</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="delete">Delete</string>
+    <string name="delete_contact">Delete</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="delete_conversation">删除会话</string>
+    <string name="delete_conversation_messages">删除会话和消息</string>
+    <string name="delete_message">删除消息</string>
+    <string name="delete_video">删除视频</string>
+    <string name="delete_voice">删除语音</string>
+    <string name="deleting">正在删除...</string>
+    <string name="diagnose">诊断</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="dialer_null_on_new_intent">Application not ready</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="did_not_answer">未接听</string>
+    <string name="disconnected">断开连接</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="dismiss">Dismiss</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dissolution_group_hint">退出后，此群将被解散</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="download_image">Download</string>
+    <string name="download_image_failed">Download failed. Please check your internet access or try again later.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="downwaiting">正在下载文件请稍后</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="draft">Draft</string>
+    <string name="ec_calibrated">Calibrated [%s ms]</string>
+    <string name="ec_calibrating">Calibrating…</string>
+    <string name="ec_calibration_launch_message">Starting echo cancelation audio calibration </string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="em_user_remove">此用户已被移除</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="error">Error</string>
+    <string name="error_adding_new_call">Error adding new call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="error_bluetooth_not_supported">蓝牙不支持.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="error_call_declined">Call declined</string>
+    <string name="error_cannot_create_default_parameters">Cannot create default call parameters</string>
+    <string name="error_cannot_get_call_parameters">Cannot get call parameters</string>
+    <string name="error_cannot_invite_address">Cannot invite destination address [%s]</string>
+    <string name="error_incompatible_media">Incompatible media parameters</string>
+    <string name="error_low_bandwidth">Your correspondent has low bandwidth, video can\'t be started</string>
+    <string name="error_network_unreachable">Network is unreachable</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_user_not_found">User not found</string>
+    <string name="error_while_accepting_pending_call">Error while accepting pending call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="exit_group">退出</string>
+    <string name="exit_group_hint">退出后，将不再接收此群聊信息</string>
+    <string name="expression">[表情]</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="failed">failed</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="failed_to_move_into">移入黑名单失败,请检查网络或稍后重试</string>
+    <string name="file">[文件]</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="filter_contacts">Filter contacts</string>
+    <string name="first_launch_bad_login_password">Couldn\'t connect; check your login and password and start again</string>
+    <string name="first_launch_no_login_password">Please enter your login and password</string>
+    <string name="first_launch_ok">Registration successful</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="first_launch_suceeded_once_key">first_launch_suceeded_once_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="first_login_connect">Connect</string>
+    <string name="first_login_explanation">Enter your username and password to connect to the service.</string>
+    <string name="first_login_password">Password</string>
+    <string name="first_login_username">Username</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="forward">转发</string>
+    <string name="get_failed_please_check">获取失败,请检查网络或稍后再试</string>
+    <string name="gift_count">礼物数</string>
+    <string name="gorup_not_found">找不到这个群组</string>
+    <string name="group_chat">群聊</string>
+    <string name="group_is_blocked">正在屏蔽群组...</string>
+    <string name="group_name">群聊名称</string>
+    <string name="group_of_shielding">群屏蔽失败，请检查网络或稍后重试</string>
+    <string name="hang_up">挂断</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="hangup">Hang up</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="have_connected_with">已经和对方建立连接，等待对方接受...</string>
+    <string name="have_you_removed">已把你从他好友列表里移除</string>
+    <string name="hi_value">Hi值</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="history_date_format">d MMM</string>
+    <string name="history_detail_date_format">EEEE MMM d HH:mm</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="image_not_saved">Error, image not saved</string>
+    <string name="image_picker_title">Select source</string>
+    <string name="image_saved">Image saved</string>
+    <string name="importing_messages">Updating messages database</string>
+    <string name="in_conf">You are part of it</string>
+    <string name="in_conf_leave">Go out</string>
+    <string name="incall_notif_active">Audio call ongoing</string>
+    <string name="incall_notif_paused">Paused call ongoing</string>
+    <string name="incall_notif_video">Video capturing call ongoing</string>
+    <string name="incoming">Incoming call</string>
+    <string name="incoming_call_dialog_title">%s is calling you</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="interacted_friend">互动过才是好友</string>
+    <string name="interface_error">接口错误</string>
+    <string name="is_down_please_wait">正在下载视频请稍候</string>
+    <string name="is_modify_the_group_name">正在修改群名称...</string>
+    <string name="is_quit_the_group_chat">正在退出群聊...</string>
+    <string name="label_data">数据：</string>
+    <string name="label_device_address">设备地址:</string>
+    <string name="label_state">状态:</string>
+    <string name="like_count">like</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="linphone_friend_new_request_desc">wants to share it\'s presence status with you and be aware of yours.</string>
+    <string name="linphone_friend_new_request_title">Friend request</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="list_is_for">正在获取好友和群聊列表...</string>
+    <string name="location_message">位置信息</string>
+    <string name="location_prefix">[我的位置]</string>
+    <string name="location_recv">[%1$s的位置]</string>
+    <string name="login">登录</string>
+    <string name="login_failure_failed">登录失败: 获取好友或群聊失败</string>
+    <string name="login_problem">登录遇到问题</string>
+    <string name="logout">退出登录</string>
+    <string name="logout_hint">退出后不会删除任何历史数据，下次登录依然可以使用本账号</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="media_encryption_dtls">DTLS</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="media_encryption_none">None</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="media_encryption_srtp">SRTP</string>
+    <string name="media_encryption_zrtp">ZRTP</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="menu_about">About</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="menu_about_key">menu_about_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="menu_clear_history">Clear</string>
+    <string name="menu_exit">Exit</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="menu_gift">礼物</string>
+    <string name="menu_invite">邀请好友</string>
+    <string name="menu_opinion">意见反馈</string>
+    <string name="menu_ours">关于我们</string>
+    <string name="menu_picture">相册</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="menu_reset_log">Reset log</string>
+    <string name="menu_send_log">Send log</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="menu_setting">设置</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="menu_settings">Settings</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="menu_shop">商城</string>
+    <string name="menu_toy">玩具</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="menu_videocall_back_to_dialer_title">Display dialer</string>
+    <string name="menu_videocall_change_resolution_title">Change resolution</string>
+    <string name="menu_videocall_change_resolution_when_high_resolution">Low resolution</string>
+    <string name="menu_videocall_change_resolution_when_low_resolution">Try High resolution</string>
+    <string name="menu_videocall_switch_camera_title">Front/Rear Camera</string>
+    <string name="menu_videocall_terminate_call_title">Terminate call</string>
+    <string name="menu_videocall_toggle_camera_disable">Disable camera</string>
+    <string name="menu_videocall_toggle_camera_enable">Enable camera</string>
+    <string name="menu_videocall_toggle_camera_title">Mute/Unmute camera</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="message_voice">[语音]</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="messages_date_format">HH:mm d MMM</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="move_up_to_cancel">手指上滑，取消发送</string>
+    <string name="msg_type_error">消息类型错误</string>
+    <string name="mute">静音</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="mutemic_button_txt">Mute</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="network_anomalies">网络异常，请检查网络！</string>
+    <string name="network_isnot_available">网络不可用</string>
+    <string name="network_unavailable">网络连接不可用，请检查网络</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="never_remind">Never remind me</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="new_experience">开启聊天新体验</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="new_fast_chat">Enter a SIP address to chat with…</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="newchat">新建聊天</string>
+    <string name="newnotify">接收新消息通知</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="no">No</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="no_bind_bank">未绑定银行卡</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="no_call_history">No call in your history.</string>
+    <string name="no_chat_history">No chat history.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="no_complete_info">未完善个人信息</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="no_contact">No contact in your address book.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="no_data">无数据</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="no_echo">No echo</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="no_macth_body">暂时没有在线用户</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="no_missed_call_history">No missed call in your history.</string>
+    <string name="no_phone_numbers">No phone numbers found for %s</string>
+    <string name="no_sip_contact">No SIP contact in your address book.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="not_add_myself">不能添加自己</string>
+    <string name="not_connect_to_server">尚未连接至服务器，请稍后重试</string>
+    <string name="not_delete_myself">不能删除自己</string>
+    <string name="not_download">未下载:</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="not_ready_to_make_new_call">Not ready for a new call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="notification_register_failure">Fails to register to %s</string>
+    <string name="notification_registered">Registered to %s </string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="notification_started">started</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="notification_title">Linphone</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="notify">新消息提醒</string>
+    <string name="now_refresh_list">正在刷新联系人</string>
+    <string name="ok">确定</string>
+    <string name="other_error">其他错误</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="out_conf">You are out of it</string>
+    <string name="out_conf_enter">Go in</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="overseas_phone">海外手机号登录</string>
+    <string name="parameter_error1">参数逻辑错误</string>
+    <string name="parameter_error2">参数错误</string>
+    <string name="password">密码</string>
+    <string name="password_error">密码不正确</string>
+    <string name="people">人)</string>
+    <string name="phone_error">手机号码不正确</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="phone_number">Phone number</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="picture">[图片]</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="picture_name_format">linphone-mms-%s.jpg</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="place_call_chooser">Place a call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="please_check">key 验证出错! 请在 AndroidManifest.xml 文件中检查 key 设置</string>
+    <string name="please_set_the_current">设置当前用户的昵称\n用于ios离线推送时显示用户昵称</string>
+    <string name="pre_leave">再按一次离开凹凸邦</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_activated_key">pref_activated_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_adaptive_rate_algorithm">Adaptive rate algorithm</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_adaptive_rate_algorithm_key">pref_adaptive_rate_algorithm</string>
+    <string name="pref_adaptive_rate_algorithm_simple_key">pref_adaptive_rate_algorithm_simple_key</string>
+    <string name="pref_adaptive_rate_algorithm_stateful_key">pref_adaptive_rate_algorithm_stateful_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_adaptive_rate_control">Adaptive rate control</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_adaptive_rate_control_key">pref_adaptive_rate_control_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_add_account">Add account</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_add_account_key">pref_add_account_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_advanced">Advanced</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_advanced_key">pref_advanced_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_amr_summary">AMR codec might not be present on your phone</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_animation_enable_key">pref_animation_enable_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_animation_enable_title">Enable Animations</string>
+    <string name="pref_audio">Audio</string>
+    <string name="pref_audio_hacks_title">Audio hacks</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_audio_hacks_use_galaxys_hack_key">pref_audio_hacks_use_galaxys_hack_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_audio_hacks_use_galaxys_hack_title">Use Galaxy S audio hack</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_audio_hacks_use_routing_api_key">pref_audio_hacks_use_routing_api_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_audio_hacks_use_routing_api_title">Use routing API hack</string>
+    <string name="pref_audio_port_description">Audio port or port range (minport-maxport)</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_audio_port_key">pref_audio_port_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_audio_port_title">Audio port or port range</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_audio_ringtone">pref_audio_ringtone</string>
+    <string name="pref_audio_soft_volume_key">pref_audio_soft_volume_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_audio_soft_volume_title">Use software volume</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_audio_use_specific_mode_key">pref_audio_use_specific_mode_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_audio_use_specific_mode_summary">0=MODE_NORMAL (default), 2=MODE_IN_CALL</string>
+    <string name="pref_audio_use_specific_mode_title">Use specific mode hack</string>
+    <string name="pref_auth_userid">Auth userid</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_auth_userid_key">pref_auth_userid_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_auto_accept_friends_desc">utomatically accept new friend requests</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_auto_accept_friends_key">pref_auto_accept_friends_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_auto_accept_friends_title">New friends</string>
+    <string name="pref_autostart">Start at boot time</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_autostart_key">pref_autostart_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_avpf">AVPF</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_avpf_key">pref_avpf_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_avpf_rr_interval"> AVPF regular RTCP interval in seconds (between 1 and 5)</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_avpf_rr_interval_key">pref_avpf_rr_interval_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_background_mode">Background mode</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_background_mode_key">pref_background_mode_key</string>
+    <string name="pref_codec_amr">amr</string>
+    <string name="pref_codec_amr_key">pref_codec_amr_key</string>
+    <string name="pref_codec_amrwb">amr-wb</string>
+    <string name="pref_codec_amrwb_key">pref_codec_amrwb_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_codec_bitrate_limit">Codec bitrate limit</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_codec_bitrate_limit_key">pref_codec_bitrate_limit_key</string>
+    <string name="pref_codec_g722">g722</string>
+    <string name="pref_codec_g722_key">pref_codec_g722_key</string>
+    <string name="pref_codec_g729">g729</string>
+    <string name="pref_codec_g729_key">pref_codec_g729_key</string>
+    <string name="pref_codec_gsm">gsm</string>
+    <string name="pref_codec_gsm_key">pref_codec_gsm_key</string>
+    <string name="pref_codec_ilbc">ilbc</string>
+    <string name="pref_codec_ilbc_key">pref_codec_ilbc_key</string>
+    <string name="pref_codec_opus">opus 48Khz</string>
+    <string name="pref_codec_opus_key">pref_codec_opus_key</string>
+    <string name="pref_codec_pcma">pcma</string>
+    <string name="pref_codec_pcma_key">pref_codec_pcma_key</string>
+    <string name="pref_codec_pcmu">pcmu</string>
+    <string name="pref_codec_pcmu_key">pref_codec_pcmu_key</string>
+    <string name="pref_codec_silk12">silk 12 Khz</string>
+    <string name="pref_codec_silk12_key">pref_codec_silk12_key</string>
+    <string name="pref_codec_silk16">silk 16 Khz</string>
+    <string name="pref_codec_silk16_key">pref_codec_silk16_key</string>
+    <string name="pref_codec_silk24">silk 24 Khz</string>
+    <string name="pref_codec_silk24_key">pref_codec_silk24_key</string>
+    <string name="pref_codec_silk8">silk 8 Khz</string>
+    <string name="pref_codec_silk8_key">pref_codec_silk8_key</string>
+    <string name="pref_codec_speex16">speex 16 Khz</string>
+    <string name="pref_codec_speex16_key">pref_codec_speex16_key</string>
+    <string name="pref_codec_speex32_key">pref_codec_speex32_key</string>
+    <string name="pref_codec_speex8">speex 8 Khz</string>
+    <string name="pref_codec_speex8_key">pref_codec_speex8_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_codecs">Codecs</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_codecs_key">pref_codecs_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_communication_expire_title">Communication timeout</string>
+    <string name="pref_debug">Debug</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_debug_key">pref_debug_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_default_account">Use as default</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_default_account_key">pref_default_account</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_delete_account">Delete this account</string>
+    <string name="pref_disable_account">Disable</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_disable_account_key">pref_disable_account_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_display_name">Display name</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_display_name_key">pref_display_name_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_display_name_title">Display name</string>
+    <string name="pref_domain">Domain*</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_domain_key">pref_domain_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_echo_cancellation">Echo cancellation</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_echo_cancellation_key">pref_echo_cancellation_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_echo_cancellation_summary">Removes the echo heard by other end</string>
+    <string name="pref_echo_canceller_calibration">Echo canceller calibration</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_echo_canceller_calibration_key">pref_echo_canceller_calibration_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_enable_outbound_proxy">Outbound proxy</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_enable_outbound_proxy_key">Outbound proxy</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_escape_plus">Replace + by 00</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_escape_plus_key">pref_escape_plus_key</string>
+    <string name="pref_expire_key">pref_expire_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_expire_title">Expire</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_extra_accounts">pref_nb_accounts_extra</string>
+    <string name="pref_first_time_linphone_chat_storage">pref_first_time_linphone_chat_storage</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_help_auth_userid">Enter authentication userid (optionnal)</string>
+    <string name="pref_help_display_name">Enter display name (optionnal)</string>
+    <string name="pref_help_domain">sip.example.org if your account is john@sip.example.org</string>
+    <string name="pref_help_outbound_proxy">Route all calls through SIP proxy</string>
+    <string name="pref_help_password">You have to re-enter your password if you edit your username and/or the domain</string>
+    <string name="pref_help_proxy">SIP proxy hostname or ip address (optional)</string>
+    <string name="pref_help_username">Example: john if your account is john@sip.example.org</string>
+    <string name="pref_ice_enable">Enable ICE</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_ice_enable_key">pref_ice_enable_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_ice_enable_summary">A STUN server must be configured to use ICE</string>
+    <string name="pref_ilbc_summary">iLBC might be unavailable depending on ARM processor and Android OS version.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_image_sharing_server_key">pref_image_sharing_server_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_image_sharing_server_title">Sharing server</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_incoming_call_timeout_key">pref_incoming_expire_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_incoming_call_timeout_title">Incoming call timeout (in seconds)</string>
+    <string name="pref_incoming_expire_title">Incoming call timeout</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_ipv6_key">pref_ipv6_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_ipv6_title">Use ipv6 instead of ipv4</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_linphone_friend_key">pref_linphone_friend_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_linphone_friend_title">Friends</string>
+    <string name="pref_manage">Manage</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_manage_key">pref_manage_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_media_encryption">Media encryption</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_media_encryption_key">pref_media_encryption_key</string>
+    <string name="pref_media_encryption_key_dtls">dtls</string>
+    <string name="pref_media_encryption_key_none">none</string>
+    <string name="pref_media_encryption_key_srtp">srtp</string>
+    <string name="pref_media_encryption_key_zrtp">zrtp</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_network_title">Network</string>
+    <string name="pref_passwd">Password*</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_passwd_key">pref_passwd_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_preferences">Preferences</string>
+    <string name="pref_preferred_video_size">Preferred video size</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_preferred_video_size_key">pref_preferred_video_size_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_prefix">Prefix</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_prefix_key">pref_prefix_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_primary_account_title">Primary account</string>
+    <string name="pref_proxy">Proxy</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_proxy_key">pref_proxy_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_push_notification">Enable push notifications</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_push_notification_key">pref_push_notification_key</string>
+    <string name="pref_remote_provisioning_key">pref_remote_provisioning_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_remote_provisioning_title">Remote provisioning</string>
+    <string name="pref_rfc2833_dtmf">Send RFC2833 DTMFs</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_rfc2833_dtmf_key">pref_rfc2833_dtmf_key</string>
+    <string name="pref_sip_port_key">pref_sip_port_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_sip_port_title">SIP port to use</string>
+    <string name="pref_sipaccount">SIP Account</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_sipaccount_key">pref_sipaccount_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_sipaccounts">SIP Accounts</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_sipaccounts_key">pref_sipaccounts_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_sipinfo_dtmf">Send SIP INFO DTMFs</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_sipinfo_dtmf_key">pref_sipinfo_dtmf_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_stun_server">Stun server</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_stun_server_key">pref_stun_server_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_transport">Transport</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_transport_key">pref_transport_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_transport_tcp">TCP</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_transport_tcp_key">pref_transport_tcp_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_transport_tls">TLS</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_transport_tls_key">pref_transport_tls_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_transport_udp">UDP</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_transport_udp_key">pref_transport_udp_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_transport_use_random_ports">Use random ports</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_transport_use_random_ports_key">pref_transport_use_random_ports_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_tunnel">Tunnel</string>
+    <string name="pref_tunnel_host">Hostname</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_tunnel_host_key">pref_tunnel_host_key</string>
+    <string name="pref_tunnel_key">pref_tunnel_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_tunnel_mode">Mode</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_tunnel_mode_key">pref_tunnel_mode_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_tunnel_port">Port</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_tunnel_port_key">pref_tunnel_port_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_upnp_enable">Enable UPNP</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_upnp_enable_key">pref_upnp_enable_key</string>
+    <string name="pref_user_name_key">pref_user_name_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_user_name_title">Username</string>
+    <string name="pref_username">Username*</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_username_key">pref_username_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video">Video</string>
+    <string name="pref_video_automatically_accept_video">Always accept video requests</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_automatically_accept_video_key">pref_video_automatically_accept_video_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_automatically_accept_video_title">Accept incoming video requests</string>
+    <string name="pref_video_automatically_share_my_video">Automatically send my camera</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_automatically_share_my_video_key">pref_video_automatically_share_my_video_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_automatically_share_my_video_title">Share my camera</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_codec_h263_key">pref_video_codec_h263_key</string>
+    <string name="pref_video_codec_h263_title">H263</string>
+    <string name="pref_video_codec_h264_key">pref_video_codec_h264_key</string>
+    <string name="pref_video_codec_h264_title">H264</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_codec_h264_unavailable">Codec disabled, build the app from source code to enable it</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_codec_mpeg4_key">pref_video_codec_mpeg4_key</string>
+    <string name="pref_video_codec_mpeg4_title">MP4V-ES</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_codec_mpeg4_unavailable">Codec disabled, build the app from source code to enable it</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_codec_vp8_key">pref_video_codec_vp8_key</string>
+    <string name="pref_video_codec_vp8_title">VP8</string>
+    <string name="pref_video_codecs_key">pref_video_codecs_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_codecs_title">Codecs</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_enable_key">pref_video_enable_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_enable_title">Enable Video</string>
+    <string name="pref_video_initiate_call_with_video">Always send video requests</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_initiate_call_with_video_key">pref_video_initiate_call_with_video_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_initiate_call_with_video_title">Initiate video calls</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_key">pref_video_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_port_description">Video port or port range (minport-maxport)</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_port_key">pref_video_port_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_port_title">Video port or port range</string>
+    <string name="pref_video_settings_title">Video settings</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_video_use_front_camera_key">pref_video_use_front_camera_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_video_use_front_camera_title">Use front camera</string>
+    <string name="pref_voice_mail">Voice mail uri</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_voice_mail_key">pref_voice_mail_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="pref_wifi_only">Use wifi only</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="pref_wifi_only_key">pref_wifi_only_key</string>
+    <string name="pref_wizard_key">pref_wizard_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="processing_image">Processing image, can take up to a few seconds depending on the size of the file</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="prompt">提示</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/PullToRefreshLibrary/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="pull_to_search">下拉搜索</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="push_reg_id_key">push_reg_id_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <string name="push_sender_id">622464153529</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="push_sender_id_key">push_sender_id_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="real_name_error">真实姓名不匹配</string>
+    <string name="receive_the_passthrough">收到透传：action：</string>
+    <string name="recoding_fail">录音失败，请重试！</string>
+    <string name="recording_video">录制视频</string>
+    <string name="register">注册</string>
+    <string name="registration_failed_without_permission">注册失败，无权限！</string>
+    <string name="release_to_cancel">松开手指，取消发送</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="remote_composing">Remote is writing...</string>
+    <string name="remote_provisioning_again_message">Do you want to change the provisioning URI ?</string>
+    <string name="remote_provisioning_again_title">Remote provisioning</string>
+    <string name="remote_provisioning_failure">Failed to download or apply remote provisioning profile...</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="remove_group_of">解除群屏蔽失败，请检查网络或稍后重试</string>
+    <string name="resend">重发</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="reset_sas_fmt">Reset verified %s</string>
+    <string name="resume_dialog_title">Resume call</string>
+    <string name="retry">Retry</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="save">保存</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="save_picture">Save picture</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="sd_card_does_not_exist">SD卡不存在，不能拍照</string>
+    <string name="search">搜索</string>
+    <string name="search_header">搜</string>
+    <string name="search_new">搜</string>
+    <string name="search_your_destined">搜索你的有缘人</string>
+    <string name="searching">搜索中...</string>
+    <string name="select_contacts">选择联系人</string>
+    <string name="send_fail">发送消息失败,</string>
+    <string name="send_failure_please">发送失败，请检测服务器是否连接</string>
+    <string name="send_successful">发送请求成功,等待对方验证</string>
+    <string name="send_the_request_is">发送请求成功，等待群主同意</string>
+    <string name="server_busy">服务器繁忙</string>
+    <string name="server_error">服务器错误</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="service_name">AotoPhone Service</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="session">会话</string>
+    <string name="set">设置</string>
+    <string name="setting">设置</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="setup_account_not_validated">Your account has not been validated yet.</string>
+    <string name="setup_account_validated">Your account has been validated.</string>
+    <string name="setup_apply">Apply</string>
+    <string name="setup_check_account_validation">Check</string>
+    <string name="setup_confirm_username">Your username will be %s (uppercase characters are not allowed). Do you accept ?</string>
+    <string name="setup_create">Create Account</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="setup_create_account">Create an account on linphone.org</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="setup_domain_hint">domain</string>
+    <string name="setup_ec_calibration">Echo canceller calibration in progress</string>
+    <string name="setup_email_hint">email</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <string name="setup_forced_proxy"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="setup_general_account_hint">Enter your SIP account username, password and domain</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="setup_key">setup_key</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="setup_linphone_account_hint">Enter your linphone.org username and password</string>
+    <string name="setup_login_generic">I already have a SIP account</string>
+    <string name="setup_login_linphone">I already have a linphone.org account</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="setup_password_confirm_hint">confirm password</string>
+    <string name="setup_password_hint">password</string>
+    <string name="setup_remote_provisioning">Download provisioning</string>
+    <string name="setup_remote_provisioning_hint">This assistant will download an existing configuration.</string>
+    <string name="setup_remote_provisioning_login_hint">The configuration you downloaded doesn\'t include your account. Please fill it in.</string>
+    <string name="setup_remote_provisioning_url_hint">provisioning url</string>
+    <string name="setup_title">Account Setup Assistant</string>
+    <string name="setup_title_assistant">Account setup assistant</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="setup_username_hint">username</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="setup_validate_account">An email has been sent to the address you gave. In order to activate your account, you need to click on the link inside it. Once it is done, come back here and click on the button above.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="setup_welcome">This assistant will help you to use a SIP account for your calls.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="shake">震动</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="share_picture_size_large">Large</string>
+    <string name="share_picture_size_medium">Medium</string>
+    <string name="share_picture_size_real">Real size</string>
+    <string name="share_picture_size_small">Small</string>
+    <string name="show_image">Show</string>
+    <string name="show_send_dtmfs_button">Dialpad</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="single_high"><u>自己去嗨</u></string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="sip_address">SIP address</string>
+    <string name="skipable_error_service_not_ready">Warning: service is not ready</string>
+    <string name="speaker_button_txt">Speaker</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="start_search">开始搜索</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="state_incoming_received">incoming</string>
+    <string name="state_outgoing_progress">calling</string>
+    <string name="state_outgoing_ringing">ringing</string>
+    <string name="state_paused">paused</string>
+    <string name="state_paused_by_remote">paused by remote</string>
+    <string name="state_streams_running"/>
+    <string name="status_active_call">active</string>
+    <string name="status_conf_call">conf</string>
+    <string name="status_connected">Registered</string>
+    <string name="status_error">Registration failed</string>
+    <string name="status_in_progress">Registration in progress</string>
+    <string name="status_not_connected">Not Registered</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="stop_search">停止搜索</string>
+    <string name="str_button_cancel">取消</string>
+    <string name="str_delete">删除</string>
+    <string name="sure_to_empty_this">确定清空此群的聊天记录吗？</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="tab_contact">Contact</string>
+    <string name="tab_dialer">Dialer</string>
+    <string name="tab_history">History</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <string name="temp_photo_name">linphone-android-photo-temp.jpg</string>
+    <string name="temp_photo_name_with_date">linphone-android-photo-%s.jpg</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="temporary_does_not">暂不支持大于10M的视频！</string>
+    <string name="text_ack_msg">已读</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="text_copied_to_clipboard">Text copied to clipboard</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="text_delivered_msg">送达</string>
+    <string name="the_current_group">当前群聊已被群创建者解散</string>
+    <string name="the_current_network">当前网络不可用，请检查网络设置</string>
+    <string name="title_devices">BLE 设备查找</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="title_numbers_dialog">%s\'s phone numbers</string>
+    <string name="today">Today</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="today_date_format">HH:mm</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="token_error">token错误</string>
+    <string name="toy_hint">下拉搜索设备</string>
+    <string name="toy_hint_nodevice">没有找到可用的设备</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="transfer_dialog_title">Transfer call to</string>
+    <string name="transfer_started">Transfer initiated</string>
+    <string name="transfer_to_new_call">New call</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="tunnel_host"/>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_strings.xml -->
+    <eat-comment/>
+    <string name="tunnel_mode_entry_value_3G_only">3G_only</string>
+    <string name="tunnel_mode_entry_value_always">always</string>
+    <string name="tunnel_mode_entry_value_auto">auto</string>
+    <string name="tunnel_mode_entry_value_disabled">disabled</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="unable_to_connect">不能连接到服务器</string>
+    <string name="unable_to_get_loaction">无法获取到您的位置信息!</string>
+    <string name="unknown_characteristic">未知子服务</string>
+    <string name="unknown_device">未知设备</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="unknown_incoming_call_name">Unknown</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="unknown_service">未知服务</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="unread_messages">%i unread messages</string>
+    <string name="uploading_image">Uploading…</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="user_card">名片</string>
+    <string name="user_name">用户名</string>
+    <string name="verification_code">验证码错误</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="verify_sas_fmt">Verify %s</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="video">[视频]</string>
+    <string name="voice">声音</string>
+    <string name="voice_call">[语音通话]</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="voicemail_unread"> unread messages</string>
+    <string name="wait">Please wait...</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/custom.xml -->
+    <eat-comment/>
+    <string name="wait_dialog_text">Starting up</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="waiting_for_startup">Starting up…</string>
+    <string name="warning_already_incall">Cannot initiate a new call because a call is already engaged</string>
+    <string name="warning_wrong_destination_address">Cannot build destination address from [%s]</string>
+    <string name="wizard_email_incorrect">Your email is not valid.</string>
+    <string name="wizard_failed">An error occurred, try again later.</string>
+    <string name="wizard_password_incorrect">Your password is not valid (6 characters min).</string>
+    <string name="wizard_passwords_unmatched">Passwords entered are different.</string>
+    <string name="wizard_server_unavailable">Server unreachable, verify your internet connection.</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/non_localizable_custom.xml -->
+    <eat-comment/>
+    <string name="wizard_url">https://www.linphone.org/wizard.php</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="wizard_username_incorrect">Your username is not valid.</string>
+    <string name="wizard_username_unavailable">This username is already in use.</string>
+    <string name="wrong_domain">Wrong domain</string>
+    <string name="wrong_passwd">wrong password</string>
+    <string name="wrong_settings">Wrong settings</string>
+    <string name="wrong_username">wrong user name</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="yangshengqi">使用扬声器播放语音</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="yes">Yes</string>
+    <string name="yesterday">Yesterday</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="you_are_group">你被群创建者从此群中移除</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/phone.xml -->
+    <eat-comment/>
+    <string name="zrtp_accept">Accept</string>
+    <string name="zrtp_deny">Deny</string>
+    <string name="zrtp_help">You should only accept if you have the same code (see above) as your correspondent</string>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppChatTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+          <item name="android:windowBackground">@drawable/chat_bg</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+          <item name="android:windowBackground">@color/global_bg</item>
+    </style>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/Crop/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Crop"/>
+    <style name="Crop.ActionButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/crop__selectable_background</item>
+    </style>
+    <style name="Crop.ActionButtonText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingRight">20dp</item> <!-- Offsets left drawable -->
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:textColor">@color/crop__button_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="Crop.ActionButtonText.Cancel">
+        <item name="android:drawableLeft">@drawable/crop__ic_cancel</item>
+        <item name="android:text">@string/crop__cancel</item>
+    </style>
+    <style name="Crop.ActionButtonText.Done">
+        <item name="android:drawableLeft">@drawable/crop__ic_done</item>
+        <item name="android:text">@string/crop__done</item>
+    </style>
+    <style name="Crop.DoneCancelBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/crop__bar_height</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:divider">@drawable/crop__divider</item>
+        <item name="android:showDividers" ns1:ignore="NewApi">middle</item>
+        <item name="android:dividerPadding" ns1:ignore="NewApi">12dp</item>
+        <item name="android:background">@color/crop__button_bar</item>
+    </style>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Sherlock.__TextAppearance.Small" parent="Widget">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="Sherlock.__Theme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Sherlock.__Theme.DarkActionBar" parent="Theme.Sherlock.Light"/>
+    <style name="Sherlock.__Theme.Light" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Sherlock.__Widget.ActionBar" parent="Widget">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingTop">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+        <item name="android:paddingBottom">0dip</item>
+        <item name="homeLayout">@layout/abs__action_bar_home</item>
+    </style>
+    <style name="Sherlock.__Widget.ActionMode" parent="Widget">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+    </style>
+    <style name="Sherlock.__Widget.ActivityChooserView" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abs__ab_share_pack_holo_dark</item>
+        <item name="android:divider">?attr/dividerVertical</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">6dip</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+    </style>
+    <style name="Sherlock.__Widget.Holo.DropDownItem" parent="Widget">
+        <item name="android:textAppearance">@style/TextAppearance.Sherlock.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Sherlock.__Widget.Holo.ListView" parent="android:Widget.ListView">
+        <item name="android:divider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="android:listSelector">@drawable/abs__list_selector_holo_dark</item>
+    </style>
+    <style name="Sherlock.__Widget.Holo.Spinner" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:spinnerMode">dropdown</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="Sherlock.__Widget.SearchAutoCompleteTextView" parent="Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:completionHintView">@layout/abs__simple_dropdown_hint</item>
+        <item name="android:completionThreshold">2</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/AoToBang_Client_Android/SwipeCards/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="SwipeFling">
+        <item name="rotation_degrees">15</item>
+        <item name="min_adapter_stack">6</item>
+        <item name="max_visible">4</item>
+    </style>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.Sherlock" parent="@android:style/TextAppearance"/>
+    <style name="TextAppearance.Sherlock.Light.SearchResult" parent="TextAppearance.Sherlock.SearchResult"/>
+    <style name="TextAppearance.Sherlock.Light.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Light.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Light.Small" parent="TextAppearance.Sherlock.Small"/>
+    <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Large" parent="TextAppearance.Sherlock.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Small" parent="TextAppearance.Sherlock.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.Sherlock.SearchResult">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textColorHint">?android:attr/textColorHint</item>
+    </style>
+    <style name="TextAppearance.Sherlock.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Small" parent="Sherlock.__TextAppearance.Small"/>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Menu" parent="Widget">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:textAllCaps">@bool/abs__config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Subtitle" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Subtitle.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Title" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionBar.Title.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Subtitle" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Subtitle.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Title" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.ActionMode.Title.Inverse" parent="Widget">
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.DropDownHint" parent="Widget">
+        <item name="android:textColor">?textColorPrimary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.DropDownItem" parent="Widget">
+        <item name="android:textColor">?textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu" parent="Widget">
+        <item name="android:textColor">?attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu.Large">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.PopupMenu.Small">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.Sherlock.Widget.TextView.SpinnerItem" parent="Widget">
+        <item name="android:textColor">?textColorPrimary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Theme.Sherlock" parent="Sherlock.__Theme">
+
+        <!-- Action bar styles (from Theme.Holo) -->
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.ActionBar.TabText</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.ActionMode</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.ActionButton.CloseMode</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.ActionBar</item>
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <!-- Internal -->
+        <item name="actionModePopupWindowStyle">@style/Widget.Sherlock.PopupWindow.ActionMode</item>
+        <item name="actionBarWidgetTheme">@null</item>
+
+        <!-- Action bar styles (defaults from Theme) -->
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.Sherlock.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimary</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="buttonStyleSmall">@style/Widget.Sherlock.Button.Small</item>
+        <item name="selectableItemBackground">@drawable/abs__item_background_holo_dark</item>
+        <item name="activatedBackgroundIndicator">@drawable/abs__activated_background_holo_dark</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_dark</item>
+        <item name="activityChooserViewStyle">@style/Widget.Sherlock.ActivityChooserView</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abs__list_divider_holo_dark</item>
+        <item name="spinnerDropDownItemStyle">@style/Widget.Sherlock.DropDownItem.Spinner</item>
+        <item name="spinnerItemStyle">@style/Widget.Sherlock.TextView.SpinnerItem</item>
+        <item name="textColorPrimary">@color/abs__primary_text_holo_dark</item>
+        <item name="textColorPrimaryDisableOnly">@color/abs__primary_text_disable_only_holo_dark</item>
+        <item name="textColorPrimaryInverse">@color/abs__primary_text_holo_light</item>
+
+        <!-- Internal -->
+        <item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.ListView.DropDown</item>
+        <item name="textAppearanceSmall">@style/TextAppearance.Sherlock.Small</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.Sherlock.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.Sherlock.Widget.PopupMenu.Small</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.Sherlock.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.Sherlock.SearchResult.Subtitle</item>
+        <item name="popupMenuStyle">@style/Widget.Sherlock.PopupMenu</item>
+        <!-- Internal -->
+        <item name="listPopupWindowStyle">@style/Widget.Sherlock.ListPopupWindow</item>
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?selectableItemBackground</item>
+        <item name="searchResultListItemHeight">58dp</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Sherlock.Light" parent="Sherlock.__Theme.Light">
+
+        <!-- Action bar styles (from Theme.Holo) -->
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Light.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.Light.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_light</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.Light.ActionBar.TabText</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.Light.ActionMode</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.Light.ActionButton.CloseMode</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.Light.ActionBar.Solid</item>
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <!-- Internal -->
+        <item name="actionModePopupWindowStyle">@style/Widget.Sherlock.Light.PopupWindow.ActionMode</item>
+        <item name="actionBarWidgetTheme">@null</item>
+
+        <!-- Action bar styles (defaults from Theme) -->
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.Sherlock.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimary</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="buttonStyleSmall">@style/Widget.Sherlock.Light.Button.Small</item>
+        <item name="selectableItemBackground">@drawable/abs__item_background_holo_light</item>
+        <item name="activatedBackgroundIndicator">@drawable/abs__activated_background_holo_light</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_light</item>
+        <item name="activityChooserViewStyle">@style/Widget.Sherlock.Light.ActivityChooserView</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abs__list_divider_holo_light</item>
+        <item name="spinnerDropDownItemStyle">@style/Widget.Sherlock.Light.DropDownItem.Spinner</item>
+        <item name="spinnerItemStyle">@style/Widget.Sherlock.TextView.SpinnerItem</item>
+        <item name="textColorPrimary">@color/abs__primary_text_holo_light</item>
+        <item name="textColorPrimaryDisableOnly">@color/abs__primary_text_disable_only_holo_light</item>
+        <item name="textColorPrimaryInverse">@color/abs__primary_text_holo_dark</item>
+
+        <!-- Internal -->
+        <item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.Light.ListView.DropDown</item>
+        <item name="textAppearanceSmall">@style/TextAppearance.Sherlock.Light.Small</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.Sherlock.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.Sherlock.Light.Widget.PopupMenu.Small</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.Sherlock.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.Sherlock.Light.SearchResult.Subtitle</item>
+        <item name="popupMenuStyle">@style/Widget.Sherlock.Light.PopupMenu</item>
+        <!-- Internal -->
+        <item name="listPopupWindowStyle">@style/Widget.Sherlock.Light.ListPopupWindow</item>
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search_api_holo_light</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.Light.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?selectableItemBackground</item>
+        <item name="searchResultListItemHeight">58dp</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Sherlock.Light.DarkActionBar" parent="Sherlock.__Theme.DarkActionBar">
+        <item name="windowContentOverlay">@drawable/abs__ab_solid_shadow_holo</item>
+        <item name="actionBarStyle">@style/Widget.Sherlock.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.Sherlock</item>
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner.DropDown.ActionBar</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.ActionButton.Overflow</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abs__cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__ic_cab_done_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionBarDivider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abs__item_background_holo_dark</item>
+        <item name="actionMenuTextColor">?attr/textColorPrimaryInverse</item>
+        <item name="actionModeStyle">@style/Widget.Sherlock.Light.ActionMode.Inverse</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.ActionButton.CloseMode</item>
+        <item name="actionModePopupWindowStyle">@style/Widget.Sherlock.PopupWindow.ActionMode</item>
+        <item name="actionModeShareDrawable">@drawable/abs__ic_menu_share_holo_dark</item>
+
+        <!-- We want the dark action bar SearchView stuff -->
+        <item name="searchDropdownBackground">@drawable/abs__search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abs__textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abs__textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abs__ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abs__ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abs__ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abs__ic_voice_search</item>
+        <item name="searchAutoCompleteTextView">@style/Widget.Sherlock.SearchAutoCompleteTextView</item>
+        <item name="dropDownHintAppearance">@style/TextAppearance.Sherlock.Widget.DropDownHint</item>
+        <item name="searchViewEditQuery">@drawable/abs__ic_commit_search_api_holo_dark</item>
+    </style>
+    <style name="Theme.Sherlock.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Sherlock.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.Sherlock.ActionBar" parent="Sherlock.__Widget.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_transparent_dark_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.Solid" parent="Sherlock.__Widget.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_dark_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabBar" parent="Widget">
+        <item name="android:divider">?attr/actionBarDivider</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">12dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabText" parent="Widget">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabView" parent="Widget">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/abs__tab_indicator_ab_holo</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton" parent="Widget">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:minWidth">@dimen/abs__action_button_min_width</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton.CloseMode">
+        <item name="android:background">@drawable/abs__btn_cab_done_holo_dark</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton.Overflow">
+        <item name="android:src">@drawable/abs__ic_menu_moreoverflow_holo_dark</item>
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:contentDescription">@string/abs__action_menu_overflow_description</item>
+    </style>
+    <style name="Widget.Sherlock.ActionMode" parent="Sherlock.__Widget.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle</item>
+    </style>
+    <style name="Widget.Sherlock.ActivityChooserView" parent="Sherlock.__Widget.ActivityChooserView"/>
+    <style name="Widget.Sherlock.Button.Small" parent="Widget">
+        <item name="android:textAppearance">?attr/textAppearanceSmall</item>
+        <item name="android:textColor">@color/abs__primary_text_holo_dark</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">48dip</item>
+    </style>
+    <style name="Widget.Sherlock.DropDownItem.Spinner" parent="Sherlock.__Widget.Holo.DropDownItem"/>
+    <style name="Widget.Sherlock.Light.ActionBar" parent="Widget.Sherlock.ActionBar">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_transparent_light_holo</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_light</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.Light.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.Light.ProgressBar</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.Solid">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abs__ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_light_holo</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.Light.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.Light.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.Solid.Inverse">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="background">@drawable/abs__ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abs__ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abs__ab_bottom_solid_inverse_holo</item>
+        <item name="divider">@drawable/abs__list_divider_holo_dark</item>
+        <item name="progressBarStyle">@style/Widget.Sherlock.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.Sherlock.ProgressBar</item>
+        <item name="progressBarPadding">32dip</item>
+        <item name="itemPadding">8dip</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabBar" parent="Widget.Sherlock.ActionBar.TabBar"/>
+    <style name="Widget.Sherlock.Light.ActionBar.TabBar.Inverse"/>
+    <style name="Widget.Sherlock.Light.ActionBar.TabText" parent="Widget.Sherlock.ActionBar.TabText"/>
+    <style name="Widget.Sherlock.Light.ActionBar.TabText.Inverse">
+        <item name="android:textColor">?attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabView" parent="Widget.Sherlock.ActionBar.TabView"/>
+    <style name="Widget.Sherlock.Light.ActionBar.TabView.Inverse"/>
+    <style name="Widget.Sherlock.Light.ActionButton" parent="Widget.Sherlock.ActionButton"/>
+    <style name="Widget.Sherlock.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/abs__btn_cab_done_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/abs__ic_menu_moreoverflow_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionMode" parent="Widget.Sherlock.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionMode.Inverse" parent="Sherlock.__Widget.ActionMode">
+        <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActivityChooserView" parent="Widget.Sherlock.ActivityChooserView">
+        <item name="android:background">@drawable/abs__ab_share_pack_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.Button.Small" parent="Widget">
+        <item name="android:textAppearance">?attr/textAppearanceSmall</item>
+        <item name="android:textColor">@color/abs__primary_text_holo_light</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">48dip</item>
+    </style>
+    <style name="Widget.Sherlock.Light.DropDownItem.Spinner" parent="Sherlock.__Widget.Holo.DropDownItem"/>
+    <style name="Widget.Sherlock.Light.ListPopupWindow" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ListView.DropDown" parent="Sherlock.__Widget.Holo.ListView">
+        <item name="android:divider">@drawable/abs__list_divider_holo_light</item>
+        <item name="android:listSelector">@drawable/abs__list_selector_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.PopupMenu" parent="Widget.Sherlock.Light.ListPopupWindow"/>
+    <style name="Widget.Sherlock.Light.PopupWindow.ActionMode" parent="Widget">
+        <item name="android:popupBackground">@android:color/white</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ProgressBar" parent="Widget.Sherlock.ProgressBar"/>
+    <style name="Widget.Sherlock.Light.ProgressBar.Horizontal" parent="Widget.Sherlock.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/abs__progress_horizontal_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.SearchAutoCompleteTextView" parent="Sherlock.__Widget.SearchAutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.Light.Spinner.DropDown.ActionBar" parent="Sherlock.__Widget.Holo.Spinner">
+        <item name="android:background">@drawable/abs__spinner_ab_holo_light</item>
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="Widget.Sherlock.ListPopupWindow" parent="Widget">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.Sherlock.ListView.DropDown" parent="Sherlock.__Widget.Holo.ListView"/>
+    <style name="Widget.Sherlock.PopupMenu" parent="Widget.Sherlock.ListPopupWindow"/>
+    <style name="Widget.Sherlock.PopupWindow.ActionMode" parent="Widget"/>
+    <style name="Widget.Sherlock.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/abs__progress_medium_holo</item>
+        <item name="android:animationResolution">33</item>
+    </style>
+    <style name="Widget.Sherlock.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/abs__progress_horizontal_holo_dark</item>
+        <!-- item name="android:indeterminateDrawable">@drawable/abs__progress_indeterminate_horizontal_holo</item -->
+        <item name="android:minHeight">16dip</item>
+        <item name="android:maxHeight">16dip</item>
+    </style>
+    <style name="Widget.Sherlock.SearchAutoCompleteTextView" parent="Sherlock.__Widget.SearchAutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/abs__list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abs__menu_dropdown_panel_holo_dark</item>
+    </style>
+    <style name="Widget.Sherlock.Spinner.DropDown.ActionBar" parent="Sherlock.__Widget.Holo.Spinner">
+        <item name="android:background">@drawable/abs__spinner_ab_holo_dark</item>
+    </style>
+    <style name="Widget.Sherlock.TextView.SpinnerItem" parent="Widget">
+        <item name="android:textAppearance">@style/TextAppearance.Sherlock.Widget.TextView.SpinnerItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="chat_content_date_style">
+	    <item name="android:gravity">left|center</item>    
+		<item name="android:textColor">#000000</item>   
+		<item name="android:textSize">15sp</item>      
+		<item name="android:lineSpacingExtra">2dp</item>   
+		<item name="android:clickable">false</item>   
+		<item name="android:focusable">true</item>   
+	</style>
+    <style name="chat_text_date_style">
+	    <item name="android:padding">2dp</item>    
+		<item name="android:textColor">#000000</item>   
+		<item name="android:textSize">@dimen/textsize_little_small</item>      
+	</style>
+    <style name="chat_text_name_style">  
+		<item name="android:textColor">#818181</item>   
+		<item name="android:textSize">15sp</item>      
+		<item name="android:gravity">center</item> 
+	</style>
+    <style name="grayline">
+       <item name="android:alpha">0.3</item>
+		<item name="android:background">#000000</item> 
+	</style>
+</resources>

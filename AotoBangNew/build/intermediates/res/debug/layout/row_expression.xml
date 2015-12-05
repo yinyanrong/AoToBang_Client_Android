@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/iv_expression"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside">
+
+</ImageView>
+<!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/row_expression.xml -->

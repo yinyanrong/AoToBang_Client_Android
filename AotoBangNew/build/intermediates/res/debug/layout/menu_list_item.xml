@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/item_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/menu_picture" />
+
+    <TextView
+        android:id="@+id/item_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/item_icon"
+        android:text="照片"
+        android:textSize="@dimen/textsize_middle" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/menu_arrow" />
+
+    <View
+        android:visibility="invisible"
+        android:id="@+id/line"
+        android:layout_marginLeft="30dp"
+        android:layout_below="@id/item_icon"
+        android:background="@color/line_bg"
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+</RelativeLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/menu_list_item.xml -->

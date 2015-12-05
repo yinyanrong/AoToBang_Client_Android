@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="global_bg">#f9f9f9</color>
+    <color name="main_title_bg">#f7f7f8</color>
+    <color name="main_text_color_red">#ff4e4e</color>
+        <color name="dark">#FF222222</color>
+    <color name="light">#FFEEEEEE</color>
+    <color name="circle_color">#eeeeee</color>
+    <color name="main_text_gray">#666666</color>
+     <color name="red">#ce0000</color>
+      <color name="message_bg">#ffffff</color>
+       <color name="line_bg">#cccccc</color>
+        <color name="menu_ll_bg">#ff6666</color>
+    <color name="shadow">#AA000000</color>
+</resources>

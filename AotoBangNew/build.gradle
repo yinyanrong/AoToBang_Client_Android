@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.aotobang.app"
+        minSdkVersion 14
+        targetSdkVersion 18
+
+        testApplicationId "com.aotobang.app"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':slidinglibrary')
+    compile project(':PullToRefreshLibrary')
+    compile project(':PagerSlidingTabStrip')
+    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile files('libs/alibaba.jar')
+    compile files('libs/commons-lang3-3.0-beta.jar')
+    compile files('libs/liblinphone.jar')
+    compile files('libs/mina-core-2.0.9.jar')
+    compile files('libs/oss-android-sdk-1.0.0.jar')
+    compile files('libs/pinyin4j-2.5.0.jar')
+    compile files('libs/slf4j-api-1.7.7.jar')
+    compile files('libs/universal-image-loader-1.8.6-with-sources.jar')
+    compile project(':SwipeCards')
+    compile project(':Crop')
+    compile project(':ShadowLayout')
+    compile 'com.android.support:support-v4:23.1.1'
+}

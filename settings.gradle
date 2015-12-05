@@ -1,0 +1,7 @@
+include ':PagerSlidingTabStrip'
+include ':PullToRefreshLibrary'
+include ':slidinglibrary'
+include ':AotoBangNew'
+include ':SwipeCards'
+include ':Crop'
+include ':ShadowLayout'

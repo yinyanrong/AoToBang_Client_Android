@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+       <item android:drawable="@drawable/user_pre" android:state_pressed="true"/>
+    <item android:drawable="@drawable/user_nor" android:state_pressed="false"/>
+    <item android:drawable="@drawable/user_nor"/>
+
+</selector><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/drawable/selector_title_user.xml -->

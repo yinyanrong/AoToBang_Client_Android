@@ -1,0 +1,37 @@
+<resources>
+    <dimen name="base_padding">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	 <!-- 登陆注册。输入框及按钮margin. -->
+     <dimen name="edit_or_btn_margin">40dp</dimen>
+     
+     
+      <!-- 字体大小. -->
+      <dimen name="textsize_little_small2">10sp</dimen>
+       <dimen name="textsize_little_small">12sp</dimen>
+       <dimen name="textsize_small">14sp</dimen>
+      <dimen name="textsize_middle">16sp</dimen>
+         <dimen name="chat_content">15sp</dimen>
+      <dimen name="textsize_large">18sp</dimen>
+   
+      
+        <!-- 聊天相关. -->
+       <dimen name="margin_chat_activity">5dp</dimen>
+        <dimen name="size_avatar">45dp</dimen>
+          <dimen name="biaoqing_icon">80dp</dimen>
+        
+         <!-- 匹配按扭. -->
+       <dimen name="match_circle_wdith">80dp</dimen>
+       <dimen name="match_circle_wdith_middle">60dp</dimen>
+        <!-- 基本按扭. -->
+        <dimen name="common_btn_width">30dp</dimen>
+        
+        <!--slidingmenu  -->
+       
+         <dimen name="slidingmenu_offset">100dp</dimen> <!-- 滑动剩余宽度 -->
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+
+    <integer name="num_cols">1</integer>
+</resources>

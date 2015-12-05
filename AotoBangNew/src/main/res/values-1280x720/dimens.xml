@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <!-- 匹配按扭. -->
+     <dimen name="match_circle_wdith">80dp</dimen>
+     <!-- 基本按扭. -->
+        <dimen name="common_btn_width">48dp</dimen>
+</resources>

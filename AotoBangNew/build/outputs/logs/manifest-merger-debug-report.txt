@@ -1,0 +1,375 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+MERGED from AoToBang_Client_Android:slidinglibrary:unspecified:7:5
+MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:3:3
+MERGED from com.android.support:support-v4:23.1.1:20:5
+MERGED from AoToBang_Client_Android:PullToRefreshLibrary:unspecified:7:5
+MERGED from AoToBang_Client_Android:PagerSlidingTabStrip:unspecified:7:5
+MERGED from com.android.support:support-v4:23.1.1:20:5
+MERGED from com.android.support:support-v4:23.1.1:20:5
+MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:3:3
+MERGED from AoToBang_Client_Android:SwipeCards:unspecified:6:5
+MERGED from AoToBang_Client_Android:Crop:unspecified:6:5
+MERGED from com.android.support:support-v4:23.1.1:20:5
+MERGED from AoToBang_Client_Android:ShadowLayout:unspecified:6:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from AndroidManifest.xml:10:7
+	android:targetPackage
+		ADDED from AndroidManifest.xml:12:9
+	android:name
+		ADDED from AndroidManifest.xml:11:9
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from AndroidManifest.xml:14:10
+	android:name
+		ADDED from AndroidManifest.xml:14:27
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:15:10
+	android:name
+		ADDED from AndroidManifest.xml:15:27
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:16:10
+	android:name
+		ADDED from AndroidManifest.xml:16:27
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:17:10
+	android:name
+		ADDED from AndroidManifest.xml:17:27
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:18:10
+	android:name
+		ADDED from AndroidManifest.xml:18:27
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:19:10
+	android:name
+		ADDED from AndroidManifest.xml:19:27
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from AndroidManifest.xml:20:4
+	android:name
+		ADDED from AndroidManifest.xml:20:21
+uses-permission#org.linphone.permission.C2D_MESSAGE
+ADDED from AndroidManifest.xml:22:5
+	android:name
+		ADDED from AndroidManifest.xml:22:22
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from AndroidManifest.xml:23:2
+	android:name
+		ADDED from AndroidManifest.xml:23:19
+uses-permission#android.permission.READ_CONTACTS
+ADDED from AndroidManifest.xml:24:2
+	android:name
+		ADDED from AndroidManifest.xml:24:19
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from AndroidManifest.xml:25:2
+	android:name
+		ADDED from AndroidManifest.xml:25:19
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:26:2
+	android:name
+		ADDED from AndroidManifest.xml:26:19
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from AndroidManifest.xml:27:2
+	android:name
+		ADDED from AndroidManifest.xml:27:19
+uses-permission#android.permission.CALL_PHONE
+ADDED from AndroidManifest.xml:28:2
+	android:name
+		ADDED from AndroidManifest.xml:28:19
+uses-feature#android.hardware.telephony
+ADDED from AndroidManifest.xml:30:2
+	android:required
+		ADDED from AndroidManifest.xml:30:60
+	android:name
+		ADDED from AndroidManifest.xml:30:18
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:31:2
+	android:name
+		ADDED from AndroidManifest.xml:31:19
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:32:2
+	android:name
+		ADDED from AndroidManifest.xml:32:19
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:33:2
+	android:name
+		ADDED from AndroidManifest.xml:33:19
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:35:2
+	android:required
+		ADDED from AndroidManifest.xml:35:57
+	android:name
+		ADDED from AndroidManifest.xml:35:18
+uses-permission#android.permission.READ_LOGS
+ADDED from AndroidManifest.xml:36:2
+	android:name
+		ADDED from AndroidManifest.xml:36:19
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:37:2
+	android:name
+		ADDED from AndroidManifest.xml:37:19
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from AndroidManifest.xml:41:2
+	android:name
+		ADDED from AndroidManifest.xml:41:19
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from AndroidManifest.xml:43:2
+	android:name
+		ADDED from AndroidManifest.xml:43:19
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from AndroidManifest.xml:45:2
+	android:name
+		ADDED from AndroidManifest.xml:45:19
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from AndroidManifest.xml:47:2
+	android:name
+		ADDED from AndroidManifest.xml:47:19
+application
+ADDED from AndroidManifest.xml:48:5
+MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:4:3
+MERGED from com.android.support:support-v4:23.1.1:22:5
+MERGED from AoToBang_Client_Android:PullToRefreshLibrary:unspecified:11:5
+MERGED from AoToBang_Client_Android:PagerSlidingTabStrip:unspecified:11:5
+MERGED from com.android.support:support-v4:23.1.1:22:5
+MERGED from com.android.support:support-v4:23.1.1:22:5
+MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:4:3
+MERGED from AoToBang_Client_Android:SwipeCards:unspecified:10:5
+MERGED from com.android.support:support-v4:23.1.1:22:5
+MERGED from AoToBang_Client_Android:ShadowLayout:unspecified:10:5
+	android:label
+		ADDED from AndroidManifest.xml:52:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:50:9
+	android:icon
+		ADDED from AndroidManifest.xml:51:9
+	android:theme
+		ADDED from AndroidManifest.xml:53:9
+	android:name
+		ADDED from AndroidManifest.xml:49:9
+uses-library#android.test.runner
+ADDED from AndroidManifest.xml:54:9
+	android:name
+		ADDED from AndroidManifest.xml:54:23
+activity#com.aotobang.app.activity.LaunchActivity
+ADDED from AndroidManifest.xml:55:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:57:13
+	android:label
+		ADDED from AndroidManifest.xml:60:13
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:59:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:58:13
+	android:name
+		ADDED from AndroidManifest.xml:56:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:61:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:62:17
+	android:name
+		ADDED from AndroidManifest.xml:62:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:63:17
+	android:name
+		ADDED from AndroidManifest.xml:63:27
+activity#com.aotobang.app.activity.Regist2Activity
+ADDED from AndroidManifest.xml:67:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:67:76
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:67:186
+	android:configChanges
+		ADDED from AndroidManifest.xml:67:113
+	android:name
+		ADDED from AndroidManifest.xml:67:19
+activity#com.aotobang.app.activity.Regist1Activity
+ADDED from AndroidManifest.xml:69:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:69:76
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:69:186
+	android:configChanges
+		ADDED from AndroidManifest.xml:69:113
+	android:name
+		ADDED from AndroidManifest.xml:69:19
+activity#com.aotobang.app.activity.SingleLVSActivity
+ADDED from AndroidManifest.xml:71:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:71:78
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:71:188
+	android:configChanges
+		ADDED from AndroidManifest.xml:71:115
+	android:name
+		ADDED from AndroidManifest.xml:71:19
+activity#com.aotobang.app.activity.MainActivity
+ADDED from AndroidManifest.xml:73:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:73:73
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:73:184
+	android:configChanges
+		ADDED from AndroidManifest.xml:73:111
+	android:name
+		ADDED from AndroidManifest.xml:73:19
+activity#com.aotobang.app.activity.SingleHighActivity
+ADDED from AndroidManifest.xml:75:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:75:79
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:75:189
+	android:configChanges
+		ADDED from AndroidManifest.xml:75:116
+	android:name
+		ADDED from AndroidManifest.xml:75:19
+activity#com.aotobang.app.activity.PhotoActivity
+ADDED from AndroidManifest.xml:77:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:77:74
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:77:184
+	android:configChanges
+		ADDED from AndroidManifest.xml:77:111
+	android:name
+		ADDED from AndroidManifest.xml:77:19
+activity#com.aotobang.app.activity.LoginActivity
+ADDED from AndroidManifest.xml:79:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:79:74
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:79:185
+	android:configChanges
+		ADDED from AndroidManifest.xml:79:112
+	android:name
+		ADDED from AndroidManifest.xml:79:19
+activity#com.aotobang.app.activity.MessageActivity
+ADDED from AndroidManifest.xml:81:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:81:76
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:81:187
+	android:configChanges
+		ADDED from AndroidManifest.xml:81:114
+	android:name
+		ADDED from AndroidManifest.xml:81:19
+activity#com.aotobang.app.activity.HomeActivity
+ADDED from AndroidManifest.xml:83:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:83:106
+	android:launchMode
+		ADDED from AndroidManifest.xml:83:74
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:83:217
+	android:configChanges
+		ADDED from AndroidManifest.xml:83:144
+	android:name
+		ADDED from AndroidManifest.xml:83:20
+activity#com.aotobang.app.activity.ChatActivity
+ADDED from AndroidManifest.xml:85:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:88:15
+	android:launchMode
+		ADDED from AndroidManifest.xml:87:14
+	android:exported
+		ADDED from AndroidManifest.xml:86:14
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:89:13
+	android:name
+		ADDED from AndroidManifest.xml:85:19
+activity#com.aotobang.app.activity.ShowBigImgActivity
+ADDED from AndroidManifest.xml:93:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:93:79
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:93:189
+	android:configChanges
+		ADDED from AndroidManifest.xml:93:116
+	android:name
+		ADDED from AndroidManifest.xml:93:19
+activity#com.aotobang.app.activity.ToyActivity
+ADDED from AndroidManifest.xml:95:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:95:72
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:95:182
+	android:configChanges
+		ADDED from AndroidManifest.xml:95:109
+	android:name
+		ADDED from AndroidManifest.xml:95:19
+activity#com.aotobang.app.activity.InteractActivity
+ADDED from AndroidManifest.xml:97:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:97:77
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:97:187
+	android:configChanges
+		ADDED from AndroidManifest.xml:97:114
+	android:name
+		ADDED from AndroidManifest.xml:97:19
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from AndroidManifest.xml:99:9
+	android:name
+		ADDED from AndroidManifest.xml:99:19
+service#com.aotobang.app.service.AotoNetService
+ADDED from AndroidManifest.xml:101:9
+	android:name
+		ADDED from AndroidManifest.xml:101:18
+service#com.aotobang.bluetooth.BluetoothLeService
+ADDED from AndroidManifest.xml:102:9
+	android:enabled
+		ADDED from AndroidManifest.xml:102:75
+	android:name
+		ADDED from AndroidManifest.xml:102:18
+service#com.aotobang.app.phone.LinphoneService
+ADDED from AndroidManifest.xml:103:9
+	android:label
+		ADDED from AndroidManifest.xml:104:10
+	android:stopWithTask
+		ADDED from AndroidManifest.xml:105:10
+	android:name
+		ADDED from AndroidManifest.xml:103:18
+receiver#org.linphone.BootReceiver
+ADDED from AndroidManifest.xml:106:9
+	android:name
+		ADDED from AndroidManifest.xml:106:19
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:107:4
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:107:19
+	android:name
+		ADDED from AndroidManifest.xml:107:27
+receiver#org.linphone.NetworkManager
+ADDED from AndroidManifest.xml:109:13
+	android:name
+		ADDED from AndroidManifest.xml:109:23
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from AndroidManifest.xml:110:4
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from AndroidManifest.xml:110:19
+	android:name
+		ADDED from AndroidManifest.xml:110:27
+receiver#com.aotobang.app.phone.KeepAliveHandler
+ADDED from AndroidManifest.xml:112:13
+	android:name
+		ADDED from AndroidManifest.xml:112:23

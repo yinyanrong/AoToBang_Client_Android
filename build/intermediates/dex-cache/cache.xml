@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AotoBang\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\AotoBang\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-72d97278f36b1328dd6581a433e0463d0ce6bb43.jar" />
+    </item>
+    <item
+        jar="E:\AotoBang\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\AotoBang\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-115a6dcdb7b04d47110ae1ae856fef4512b064e0.jar" />
+    </item>
+    <item
+        jar="E:\AotoBang\AoToBang_Client_Android\AotoBangNew\build\intermediates\exploded-aar\AoToBang_Client_Android\PagerSlidingTabStrip\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f110f21c69f659e49bae4c0e7f44626cde94543">
+        <dex dex="E:\AotoBang\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\classes-ea4da8ae5ab589ed90c379c8127cb04503235ca7.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator.WIN7U-20151130Q\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\AotoBang\AoToBang_Client_Android\AotoBangNew\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-7f46fb73cfc943d07e18e2caf1ebb5c9eb3f60aa.jar" />
+    </item>
+
+</items>

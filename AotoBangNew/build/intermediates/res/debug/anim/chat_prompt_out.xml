@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromYDelta="0"
+    android:toYDelta="-100%p"
+    android:duration="1000"
+    >
+    
+
+</translate><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/anim/chat_prompt_out.xml -->

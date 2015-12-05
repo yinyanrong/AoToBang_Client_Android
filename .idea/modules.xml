@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AoToBang_Client_Android.iml" filepath="$PROJECT_DIR$/AoToBang_Client_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AotoBangNew/AotoBangNew.iml" filepath="$PROJECT_DIR$/AotoBangNew/AotoBangNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crop/Crop.iml" filepath="$PROJECT_DIR$/Crop/Crop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" filepath="$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShadowLayout/ShadowLayout.iml" filepath="$PROJECT_DIR$/ShadowLayout/ShadowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeCards/SwipeCards.iml" filepath="$PROJECT_DIR$/SwipeCards/SwipeCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidinglibrary/slidinglibrary.iml" filepath="$PROJECT_DIR$/slidinglibrary/slidinglibrary.iml" />
+    </modules>
+  </component>
+</project>

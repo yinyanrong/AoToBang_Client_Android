@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/logo" />
+
+    
+
+    <TextView
+        android:id="@+id/mian_text"
+        android:layout_marginBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:drawableRight="@drawable/mian_arrow"
+        android:text="偷偷溜一圈"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    
+    <LinearLayout
+        android:id="@+id/ll_third"
+        android:layout_marginBottom="20dp"
+        android:layout_above="@id/mian_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/qq" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/weibo" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/weixin" />
+    </LinearLayout>
+<LinearLayout
+        android:layout_marginBottom="20dp"
+        android:layout_above="@id/ll_third"
+        android:id="@+id/mian_ll_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.aotobang.app.view.TextChangeColorView
+            android:id="@+id/main_logion"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_mian_login"
+            android:gravity="center"
+            android:text="登录"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize_large" />
+
+        <com.aotobang.app.view.TextChangeColorView
+            android:id="@+id/main_regist"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_mian_regist"
+            android:gravity="center"
+            android:text="注册"
+            android:textColor="@color/main_text_color_red"
+            android:textSize="@dimen/textsize_large" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/layout/activity_main.xml -->

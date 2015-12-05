@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/AotoBang/AoToBang_Client_Android/AotoBangNew/src/main/res/values-1280x720/dimens.xml -->
+    <eat-comment/>
+    <dimen name="common_btn_width">48dp</dimen>
+    <dimen name="match_circle_wdith">80dp</dimen>
+</resources>
